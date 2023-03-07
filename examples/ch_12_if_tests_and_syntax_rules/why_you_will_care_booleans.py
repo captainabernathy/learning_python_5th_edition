@@ -1,4 +1,5 @@
 if __name__ == '__main__':
+    print('code snippets from page 397\n')
     L = [1, 0, 2, 0, 'spam', '', 'ham', []]
     print(L)  # [1, 0, 2, 0, 'spam', '', 'ham', []]
     print('')
