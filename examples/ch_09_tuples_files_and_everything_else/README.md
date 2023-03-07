@@ -1,4 +1,4 @@
-## Chapter 9 -  Tuples, Files, and Everything Else
+## Chapter 9 - Tuples, Files, and Everything Else
 
 ## Programs
 
