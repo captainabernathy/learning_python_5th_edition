@@ -3,7 +3,7 @@
 ## Programs
 
 ### A First Example: Definitions and Calls
-**definitions_and_calls.py**
+* **definitions_and_calls.py**
 
 ### A Second Example: Intersecting Sequences
-**intersecting_sequences.py** 
+* **intersecting_sequences.py** 
