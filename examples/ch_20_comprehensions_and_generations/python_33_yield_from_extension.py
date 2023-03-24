@@ -19,6 +19,7 @@ def both2(N):
 
 
 if __name__ == '__main__':
+    print('code snippets from pages 628-629\n')
     # in these examples, the list() constructor forces the generators produce
     # all of their results
     print(list(both1(5)))  # [0,1,2,3,4,0,1,4,9,16]
