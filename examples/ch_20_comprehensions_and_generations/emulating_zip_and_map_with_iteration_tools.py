@@ -1,5 +1,5 @@
 if __name__ == '__main__':
-    print('code snippets from pages 640\n')
+    print('code snippets from pages 640-644\n')
     S1 = 'abc'
     S2 = 'xyz123'
     print(list(zip(S1, S2)))  # [('a','x'),('b','y'),('c','z')]
