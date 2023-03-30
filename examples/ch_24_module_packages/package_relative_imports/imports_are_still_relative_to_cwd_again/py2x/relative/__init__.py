@@ -1,0 +1,2 @@
+print 'initializing relative'
+print ''

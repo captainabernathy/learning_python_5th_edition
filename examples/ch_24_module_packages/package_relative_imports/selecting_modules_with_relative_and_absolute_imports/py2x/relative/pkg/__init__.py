@@ -1,0 +1,2 @@
+print 'initializing pkg'
+print ''
