@@ -1,6 +1,5 @@
 ## Chapter 25 - Advanced Module Topics
 
-
 ## Programs
 
 ### Data Hiding in Modules
