@@ -9,6 +9,7 @@ class SecondClass(FirstClass):
 
 
 if __name__ == "__main__":
+    print('code snippet from page 829\n')
     x = FirstClass()
     x.setdata('New value')
 

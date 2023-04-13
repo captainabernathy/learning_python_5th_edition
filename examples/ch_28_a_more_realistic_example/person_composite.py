@@ -26,13 +26,14 @@ class Manager:
     def __getattr__(self, attr):
         return getattr(self.person, attr)  # delegate all other attributes
 
-    # NOTE: in python 3.X, overloaded operators are not routed through 
+    # NOTE: in python 3.X, overloaded operators are not routed through
     # __getattr__() or __getattribute__()
     def __repr__(self):
         return str(self.person)  # must overload again in 3.X
 
 
 if __name__ == '__main__':
+    print('code snippets from pages 865-866\n')
     bob = Person('Bob Smith')
     sue = Person('Sue Jones', job='dev', pay=100000)
 
@@ -48,5 +49,5 @@ if __name__ == '__main__':
 
     print(tom.last_name())  # Jones... routed through Person via __getattr__()
     print(tom)  # [Person: Tom Jones, 60000]
-    print(tom.person)  # [Person: Tom Jones, 60000]... 
+    print(tom.person)  # [Person: Tom Jones, 60000]...
                        # invokes Person's __repr__()

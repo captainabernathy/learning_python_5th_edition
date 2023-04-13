@@ -7,6 +7,7 @@ def uppername(obj):
 
 
 if __name__ == "__main__":
+    print('code snippets from pages 836-838\n')
     # add attributes to rec directly
     rec.name = 'Bob'
     rec.age = 40

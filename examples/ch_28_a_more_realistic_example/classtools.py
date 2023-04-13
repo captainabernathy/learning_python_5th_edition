@@ -19,6 +19,7 @@ class AttrDisplay:
 
 
 if __name__ == '__main__':
+    print('code snippets from page 871\n')
 
     class TopTest(AttrDisplay):
         count = 0

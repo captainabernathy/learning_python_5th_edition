@@ -43,6 +43,7 @@ class Department:
 
 
 if __name__ == '__main__':
+    print('code snippets from pages 866-867\n')
     bob = Person('Bob Smith')
     sue = Person('Sue Jones', job='dev', pay=100000)
     tom = Manager('Tom Jones', 50000)

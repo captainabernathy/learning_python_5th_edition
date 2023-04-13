@@ -17,6 +17,7 @@ class Person:
 
 
 if __name__ == '__main__':
+    print('code snippets from page 855\n')
     bob = Person('Bob Smith')
     sue = Person('Sue Jones', job='dev', pay=100000)
 

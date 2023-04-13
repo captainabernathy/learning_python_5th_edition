@@ -7,6 +7,7 @@ class FirstClass:
 
 
 if __name__ == "__main__":
+    print('code snippet from pages 825-827\n')
     x = FirstClass()
     y = FirstClass()
 

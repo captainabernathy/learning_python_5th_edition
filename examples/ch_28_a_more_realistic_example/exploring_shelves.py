@@ -3,7 +3,7 @@ import glob  # glob enables you to get directory listings in python code
 import shelve
 
 if __name__ == '__main__':
-
+    print('code snippets from pages 879-880\n')
     # ['person_department.py', 'person_composite.py', 'persondb', 'person.py']
     print(glob.glob('person*'))
     print('')
