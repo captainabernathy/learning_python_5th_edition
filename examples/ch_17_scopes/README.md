@@ -5,30 +5,30 @@
 ### Python Scope Basics
 
 #### The Built-in Scope
-* **builtin_scope.py** 
+* builtin\_scope.py 
 
 ### The global Statement
-* **global_statement.py**
+* global\_statement.py
 
 #### Program Design: Minimize Cross-File Changes
-* **minimize_global_variables_first.py**
-* **minimize_global_variables_second.py** 
+* minimize\_global\_variables\_first.py
+* minimize\_global\_variables\_second.py 
 
 #### Other Ways to Access Globals
-* **other_ways_to_access_globals.py** 
-* **thismod.py**
+* other\_ways\_to\_access\_globals.py 
+* thismod.py
 
 ### Scopes and Nested Functions
-* **nested_scope_examples.py**
-* **factory_function_closures.py**  
-* **retaining_enclosing_scope_state_with_defaults.py**
-* **nested_scopes_defaults_and_lambdas.py** 
+* nested\_scope\_examples.py
+* factory\_function\_closures.py  
+* retaining\_enclosing\_scope\_state\_with\_defaults.py
+* nested\_scopes\_defaults\_and\_lambdas.py 
 
 ### The nonlocal Statement in 3.X
-* **nonlocal_statement.py** 
+* nonlocal\_statement.py 
 
 ### Why nonlocal? State Retention Options
-* **state_with_nonlocal_3X_only.py**
-* **state_with_globals_a_single_copy_only.py** 
-* **state_with_classes_explicit_attributes.py** 
-* **state_with_function_attributes_3X_and_2X.py** 
+* state\_with\_nonlocal\_3X\_only.py
+* state\_with\_globals\_a\_single\_copy\_only.py 
+* state\_with\_classes\_explicit\_attributes.py 
+* state\_with\_function\_attributes\_3X\_and\_2X.py 

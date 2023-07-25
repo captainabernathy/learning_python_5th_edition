@@ -3,13 +3,13 @@
 ## Programs
 
 ### if Statements
-* **if_statements.py**
+* if\_statements.py
 
 ### Truth Values and Boolean Tests
-* **truth_values_and_boolean_tests.py**
+* truth\_values\_and\_boolean\_tests.py
 
 ### The if/else Ternary Expression
-* **if_else_ternary_expression.py**
+* if\_else\_ternary\_expression.py
 
 #### Why You Will Care: Booleans
-* **why_you_will_care_booleans.py**
+* why\_you\_will\_care\_booleans.py

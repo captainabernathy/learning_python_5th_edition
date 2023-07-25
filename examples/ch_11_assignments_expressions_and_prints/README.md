@@ -3,14 +3,14 @@
 ## Programs
 
 ### Assignment Statements
-* **sequence_assignments.py**
-* **advanced_sequence_assignment_patterns.py** 
-* **extended_sequence_unpacking.py**
-* **multiple_target_assignments.py**
-* **augmented_assignments.py** 
+* sequence\_assignments.py
+* advanced\_sequence\_assignment\_patterns.py 
+* extended\_sequence\_unpacking.py
+* multiple\_target\_assignments.py
+* augmented\_assignments.py 
 
 ### Print Operations
-* **python3x_print_function.py**
-* **python2x_print_statement.py** 
-* **print_stream_redirection.py**
+* python3x\_print\_function.py
+* python2x\_print\_statement.py 
+* print\_stream\_redirection.py
 

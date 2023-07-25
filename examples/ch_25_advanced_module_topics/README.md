@@ -3,41 +3,40 @@
 ## Programs
 
 ### Data Hiding in Modules
-* **unders.py**
-* **unders_importer.py**
-* **alls.py**
-* **alls_importer_01.py**
-* **alls_importer_02.py**
+* unders.py
+* unders\_importer.py
+* alls.py
+* alls\_importer\_01.py
+* alls\_importer\_02.py
 
 ### Mixed Usage Modes: \_\_name\_\_ and \_\_main\_\_
-* **runme.py**
-* **runme_importer.py**
-* **minmax2.py**
-* **minmax2_importer.py**
+* runme.py
+* runme\_importer.py
+* minmax2.py
+* minmax2\_importer.py
 
 ### Example: Dual Mode Code
-* **formats.py**
-* **formats_importer.py**
-* **formats_currency.py**
+* formats.py
+* formats\_importer.py
+* formats\_currency.py
 
 ### Example: Modules Are Objects
-* **mydir.py**
-* **mydir_importer.py**
+* mydir.py
+* mydir\_importer.py
 
 ### Importing Modules by Name String
-* **running_code_strings.py**
-* **direct_calls_option_01.py**
-* **direct_calls_option_02.py**
+* running\_code\_strings.py
+* direct\_calls\_option\_01.py
+* direct\_calls\_option\_02.py
 
 ### Example: Transitive Module Reloads
-* **reloadall.py**
-* **reloadall2.py**
-* **reloadall3.py**
-* **reloadall_importer.py**
+* reloadall.py
+* reloadall2.py
+* reloadall3.py
+* reloadall\_importer.py
 
 
 ### Module Gotchas
-* **nested1.py**
-* **nested2.py**
-* **nested3.py**
-
+* nested1.py
+* nested2.py
+* nested3.py

@@ -3,39 +3,39 @@
 ## Programs
 
 ### Numbers
-* **numeric_types.py**
+* numeric\_types.py
 
 ### Strings
-* **sequence_operations_strings.py**
-* **immutability.py**
-* **type_specific_methods.py**
-* **unicode_strings.py**
-* **pattern_matching.py**
+* sequence\_operations\_strings.py
+* immutability.py
+* type\_specific\_methods.py
+* unicode\_strings.py
+* pattern\_matching.py
 
 ### Lists
-* **sequence_operations_list.py**
-* **type_specific_operations.py**
-* **nesting.py**
-* **list_comprehensions.py**
+* sequence\_operations\_list.py
+* type\_specific\_operations.py
+* nesting.py
+* list\_comprehensions.py
 
 ### Dictionaries 
-* **mapping_operations.py**
-* **nesting_revisited.py**
-* **membership_tests.py**
-* **sorting_keys.py**
-* **iteration_and_optimization.py**
+* mapping\_operations.py
+* nesting\_revisited.py
+* membership\_tests.py
+* sorting\_keys.py
+* iteration\_and\_optimization.py
 
 ### Tuples
-* **tuple_examples.py**
+* tuple\_examples.py
 
 ### Files
-* **text_files.py**
-* **binary_byte_files.py**
-* **unicode_text_files.py**
-* **unicode_python2.py**
+* text\_files.py
+* binary\_byte\_files.py
+* unicode\_text\_files.py
+* unicode\_python2.py
 
 ### Other Code Types
-* **set_examples**
-* **decimal_examples**
-* **boolean_examples**
-* **user_defined_classes.py**
+* set\_examples
+* decimal\_examples
+* boolean\_examples
+* user\_defined\_classes.py

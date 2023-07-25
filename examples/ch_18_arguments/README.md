@@ -3,34 +3,34 @@
 ## Programs
 
 ### Arguments and Shared References
-* **arguments_and_shared_references.py** 
-* **avoiding_mutable_argument_changes.py** 
-* **simulating_output_parameters_and_multiple_results.py** 
+* arguments\_and\_shared\_references.py 
+* avoiding\_mutable\_argument\_changes.py 
+* simulating\_output\_parameters\_and\_multiple\_results.py 
 
 ### Special Argument Matching Modes
-* **keyword_and_default_examples.py**
+* keyword\_and\_default\_examples.py
 
 #### Arbitrary Argument Examples
-* **headers_collecting_arguments.py**
-* **calls_unpacking_arguments.py**
+* headers\_collecting\_arguments.py
+* calls\_unpacking\_arguments.py
 
 ##### Applying Functions Generically
-* **tracer0.py**
+* tracer0.py
 
 #### Python 3.X Keyword-Only Arguments
-* **keyword_only_args_3x.py**
-* **ordering_rules.py** 
+* keyword\_only\_args\_3x.py
+* ordering\_rules.py 
 
 ### The min Wakeup Call!
-* **mins.py**
-* **minmax.py**
+* mins.py
+* minmax.py
 
 ### Generalized Set Functions
-* **generalized_set_functions.py**
-* **inter2.py**
+* generalized\_set\_functions.py
+* inter2.py
 
 ### Emulating the Python 3.X print Function
-* **emulating_python3x_print_function.py**
-* **print3.py**
-* **print3_alt1.py**
-* **print3_alt2.py**
+* emulating\_python3x\_print\_function.py
+* print3.py
+* print3\_alt1.py
+* print3\_alt2.py

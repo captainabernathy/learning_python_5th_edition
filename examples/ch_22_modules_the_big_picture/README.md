@@ -3,16 +3,16 @@
 ## Programs
 
 ### Python Program Architecture
-* **a.py**
-* **b.py**
+* a.py
+* b.py
 
 ### Byte Code Files: \_\_pycache\_\_ in Python 3.2+
-* **py2x/**
-    * **script0.py**
-    * **byte_code_file_models_in_action.py**
-* **py3x/**
-    * **script0.py**
-    * **byte_code_file_models_in_action.py**
+* py2x/
+    * script0.py
+    * byte\_code\_file\_models\_in\_action.py
+* py3x/
+    * script0.py
+    * byte\_code\_file\_models\_in\_action.py
 
 ### The Module Search Path
-* **sys_path_list.py**
+* sys\_path\_list.py

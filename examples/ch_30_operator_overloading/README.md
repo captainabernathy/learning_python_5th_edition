@@ -3,55 +3,54 @@
 ## Programs
 
 ### The Basics
-* **number.py**
+* number.py
 
 ### Indexing and Slicing: \_\_getitem\_\_ and \_\_setitem\_\_
-* **indexing_and_slicing_getitem_and_setitem.py**
-* **intercepting_slices.py**
-* **slicing_and_indexing_in_2X.py**
-* **but_3X__index__is_not_indexing.py**
+* indexing\_and\_slicing\_getitem\_and\_setitem.py
+* intercepting\_slices.py
+* slicing\_and\_indexing\_in\_2X.py
+* but\_3X\_\_index\_\_is\_not\_indexing.py
 
 ### Index Iteration: \_\_getitem\_\_
-* **index_iteration_getitem.py**
+* index\_iteration\_getitem.py
 
 ### Iterable Objects: \_\_iter\_\_ and \_\_next\_\_
-* **squares.py**
-* **user_defined_iterables.py**
-* **skipper.py**
-* **skipper_2x.py**
-* **coding_alternative_iter_plus_yield.py**
-* **squares_yield.py**
-* **squares_manual.py**
-* **squares_nonyield.py**
-* **skipper_yield.py**
+* squares.py
+* user\_defined\_iterables.py
+* skipper.py
+* skipper\_2x.py
+* coding\_alternative\_iter\_plus\_yield.py
+* squares\_yield.py
+* squares\_manual.py
+* squares\_nonyield.py
+* skipper\_yield.py
 
 ### Membership: \_\_contains\_\_, \_\_iter\_\_, and \_\_getiterm\_\_
-* **membership_contains_iter_and_getitem.py**
-* **contains.py**
-* **contains_yield.py**
+* membership\_contains\_iter\_and\_getitem.py
+* contains.py
+* contains\_yield.py
 
 ### Attribute Access: \_\_getattr\_\_ and \_\_setattr\_\_
-* **attribute_access_getattr_and_setattr.py**
-* **private0.py**
+* attribute\_access\_getattr\_and\_setattr.py
+* private0.py
 
 ### String Representation: \_\_repr\_\_ and \_\_str\_\_
-* **string_representation_repr_and_str.py**
-* **display_usage_notes.py**
+* string\_representation\_repr\_and\_str.py
+* display\_usage\_notes.py
 
 ### Right-Side and In-Place Uses: \_\_radd\_\_ and \_\_iadd\_\_
-* **commuter.py**
+* commuter.py
 
 ### Call Expressions: \_\_call\_\_
-* **call_expressions.py**
+* call\_expressions.py
 
 ### Comparisons: \_\_lt\_\_, \_\_gt\_\_, and Others
-* **comparisons_lt_gt_and_others.py**
-* **cmp_method_in_2x.py**
+* comparisons\_lt\_gt\_and\_others.py
+* cmp\_method\_in\_2x.py
 
 ### Boolean Tests: \_\_bool\_\_ and \_\_len\_\_
-* **boolean_tests_bool_and_len.py**
-* **boolean_methods_in_2x.py**
+* boolean\_tests\_bool\_and\_len.py
+* boolean\_methods\_in\_2x.py
 
 ### Object Destruction: \_\_del\_\_
-* **object_destruction_del.py**
-
+* object\_destruction\_del.py

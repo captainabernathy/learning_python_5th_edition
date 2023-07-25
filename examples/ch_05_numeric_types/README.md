@@ -3,18 +3,18 @@
 ## Programs
 
 ### Numbers in Action
-* **variables_and_basic_expressions.py**
-* **numeric_display_formats.py**
-* **comparisons_normal_and_chained.py**
-* **division_classic_floor_true.py**
-* **integer_precision.py**
-* **complex_numbers.py**
-* **hex_octal_binary_literals_and_conversions.py**
-* **bitwise_operations.py**
-* **other_built_in_numeric_tools.py**
+* variables\_and\_basic\_expressions.py
+* numeric\_display\_formats.py
+* comparisons\_normal\_and\_chained.py
+* division\_classic\_floor\_true.py
+* integer\_precision.py
+* complex\_numbers.py
+* hex\_octal\_binary\_literals\_and\_conversions.py
+* bitwise\_operations.py
+* other\_built\_in\_numeric\_tools.py
 
 ### Other Numeric Types
-* **decimal_type.py**
-* **fraction_type.py**
-* **sets.py**
-* **booleans.py**
+* decimal\_type.py
+* fraction\_type.py
+* sets.py
+* booleans.py

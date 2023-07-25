@@ -3,13 +3,13 @@
 ## Programs
 
 ### String Literals
-* **string_literals.py**
+* string\_literals.py
 
 ### Strings in Action
-* **strings_in_action.py**
+* strings\_in\_action.py
 
 ### String Methods
-* **string_methods.py**
+* string\_methods.py
 
 ### String Formatting Expressions, String Formatting Method Calls
-* **string_formatting.py**
+* string\_formatting.py

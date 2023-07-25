@@ -3,27 +3,27 @@
 ## Programs
 
 ### The class Statement
-* **class_statement.py**
+* class\_statement.py
 
 ### Methods
-* **methods.py**
+* methods.py
 
 ### Inheritance
-* **specializing_inherited_methods.py**
-* **specialize.py**
-* **abstract_superclasses.py**
-* **abstract_superclasses_in_3X_and_26.py**
+* specializing\_inherited\_methods.py
+* specialize.py
+* abstract\_superclasses.py
+* abstract\_superclasses\_in\_3X\_and\_26.py
 
 ### Namespaces: The Conclusion
-* **manynames.py**
-* **otherfile.py**
-* **zen_of_namespaces.py**
-* **classscope.py**
-* **namespace_dictionaries_reiview.py**
-* **classtree.py**
-* **namespace_links_a_tree_climber.py**
+* manynames.py
+* otherfile.py
+* zen\_of\_namespaces.py
+* classscope.py
+* namespace\_dictionaries\_reiview.py
+* classtree.py
+* namespace\_links\_a\_tree\_climber.py
 
 ### Documentation Strings Revisited
-* **docstr.py**
-* **documentation_strings_revisited.py**
+* docstr.py
+* documentation\_strings\_revisited.py
 

@@ -3,11 +3,11 @@
 ## Programs
 
 ### Python Documentation Sources
-* **the_dir_function.py** 
+* the\_dir\_function.py 
 
 #### Docstrings:\_\_doc\_\_
-* **docstrings.py**
-* **builtin_docstrings.py** 
+* docstrings.py
+* builtin\_docstrings.py 
 
 #### PyDoc: The help Function
-* **pydoc_help_function.py** 
+* pydoc\_help\_function.py 

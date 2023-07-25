@@ -3,29 +3,29 @@
 ## Programs
 
 ### Iterations: A First Look
-* **iterations_a_first_look.py**
-* **iteration_protocol_file_iterators.py** 
+* iterations\_a\_first\_look.py
+* iteration\_protocol\_file\_iterators.py 
 
 #### Manual Iteration: iter and next
-* **manual_iteration_iter_and_next.py**
-* **full_iteration_protocol.py** 
-* **manual_iteration.py**
+* manual\_iteration\_iter\_and\_next.py
+* full\_iteration\_protocol.py 
+* manual\_iteration.py
 
 #### Other Built-in Type Iterables
-* **other_built_in_type_iterables.py**
+* other\_built\_in\_type\_iterables.py
 
 ### List Comprehensions: A First Detailed Look
-* **list_comprehensions_first_look.py** 
-* **using_list_comprehensions_on_files.py** 
-* **extended_list_comprehension_syntax.py**
+* list\_comprehensions\_first\_look.py 
+* using\_list\_comprehensions\_on\_files.py 
+* extended\_list\_comprehension\_syntax.py
 
 ### Other Iteration Contexts
-* **other_iteration_contexts.py**
+* other\_iteration\_contexts.py
 
 ### New Iterables in Python 3.X
-* **new_iterables_in_python_3x.py**
-* **range_iterable.py** 
-* **map_zip_and_filter_iterables.py** 
-* **multiple_vs_single_pass_iterators.py**
-* **dictionary_view_iterables.py** 
+* new\_iterables\_in\_python\_3x.py
+* range\_iterable.py 
+* map\_zip\_and\_filter\_iterables.py 
+* multiple\_vs\_single\_pass\_iterators.py
+* dictionary\_view\_iterables.py 
 

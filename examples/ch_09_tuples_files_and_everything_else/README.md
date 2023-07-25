@@ -3,24 +3,24 @@
 ## Programs
 
 ### Tuples in Action
-* **tuples_in_action.py**
-* **tuple_conversion_methods_and_immutability.py**
+* tuples\_in\_action.py
+* tuple\_conversion\_methods\_and\_immutability.py
 
 ### Records Revisited: Named Tuples
-* **named_tuples.py**
+* named\_tuples.py
 
 ### Files in Action
-* **files_in_action.py**
+* files\_in\_action.py
 
 ### Storing Python Objects in Files: Conversions
-* **storing_objects_in_files_conversions.py**
+* storing\_objects\_in\_files\_conversions.py
 
 ### Storing Native Python Objects: pickle
-* **storing_native_python_objects_pickle.py**
+* storing\_native\_python\_objects\_pickle.py
 
 ### Storing Python Objects in JSON Format
-* **storing_python_objects_in_JSON.py**
+* storing\_python\_objects\_in\_JSON.py
 
 ### Storing Packed Binary Data: struct
-* **storing_packed_binary_data_struct.py**
+* storing\_packed\_binary\_data\_struct.py
 

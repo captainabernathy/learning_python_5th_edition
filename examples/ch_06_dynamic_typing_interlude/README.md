@@ -3,7 +3,7 @@
 ## Programs
 
 ### The Case of the Missing Declaration Statements
-* **missing_declaration_statements.py** 
+* missing\_declaration\_statements.py 
 
 ### Shared References
-* **shared_references.py**
+* shared\_references.py

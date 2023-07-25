@@ -3,31 +3,32 @@
 ## Programs
 
 ### List Comprehensions and Functional Tools
-* **list_comprehensions_vs_map.py**
-* **adding_tests_nested_loops_filter.py**
-* **formal_comprehension_syntax.py**
-* **list_comprehensions_and_matricies.py**
+* list\_comprehensions\_vs\_map.py
+* adding\_tests\_nested\_loops\_filter.py
+* formal\_comprehension\_syntax.py
+* list\_comprehensions\_and\_matricies.py
 
 ### Generator Functions and Expressions
-* **generator_functions_in_action.py**
-* **why_generator_functions.py**
-* **extended_generator_function_protocol_send_vs_next.py**
-* **generator_expressions_iterables_meet_comprehensions.py**
-* **generator_expressions_vs_map.py**
-* **generator_expressions_vs_filter.py**
-* **generator_functions_vs_generator_expressions.py**
-* **generators_are_single_iteration_objects.py**
-* **python_33_yield_from_extension.py**
-* **generation_in_builtin_types_tools_and_classes.py**
-* **generating_scrambled_sequences.py**
-* **scramble.py**
-* **scramble_tester.py**
-* **inter2.py**
-* **permute.py**
-* **permute_tester.py**
-* **space_and_time_conciseness_expressiveness.py**
-* **emulating_zip_and_map_with_iteration_tools.py**
-* **mymap.py**
+* generator\_functions\_in\_action.py
+* why\_generator\_functions.py
+* extended\_generator\_function\_protocol\_send\_vs\_next.py
+* generator\_expressions\_iterables\_meet\_comprehensions.py
+* generator\_expressions\_vs\_map.py
+* generator\_expressions\_vs\_filter.py
+* generator\_functions\_vs\_generator\_expressions.py
+* generators\_are\_single\_iteration\_objects.py
+* python\_33\_yield\_from\_extension.py
+* generation\_in\_builtin\_types\_tools\_and\_classes.py
+* generating\_scrambled\_sequences.py
+* scramble.py
+* scramble\_tester.py
+* inter2.py
+* permute.py
+* permute\_tester.py
+* space\_and\_time\_conciseness\_expressiveness.py
+* emulating\_zip\_and\_map\_with\_iteration\_tools.py
+* mymap.py
 
 ### Comprehension Syntax Summary
-* **extended_comprehension_syntax_for_sets_and_dictionaries.py**
+* comprehending\_set\_and\_dictionary\_comprehensions.py
+* extended\_comprehension\_syntax\_for\_sets\_and\_dictionaries.py

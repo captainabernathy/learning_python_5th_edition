@@ -3,14 +3,14 @@
 ## Programs
 
 ### Classes Generate Multiple Instance Objects
-* **first_example.py**
+* first\_example.py
 
 ### Classes Are Customized by Inheritance
-* **second_example.py**
+* second\_example.py
 
 ### Classes Can Intercept Python Operators
-* **third_example.py**
+* third\_example.py
 
 ### The World's Simplest Python Class
-* **worlds_simplest_python_class.py**
-* **records_revisited_classes_vs_dictionaries.py**
+* worlds\_simplest\_python\_class.py
+* records\_revisited\_classes\_vs\_dictionaries.py
