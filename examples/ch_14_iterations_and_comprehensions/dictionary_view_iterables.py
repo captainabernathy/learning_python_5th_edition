@@ -11,9 +11,9 @@ if __name__ == '__main__':
 
     # NOTE: a view object is not its own iterator
     try:
-        print(next(K))  # view are not iterators!!!
+        print(next(K))  # views are not iterators!!!
     except TypeError as ex:
-        print(ex)
+        print(ex)  # 'dict_keys' object is not an iterator
     print('')
 
     It = iter(K)

@@ -3,7 +3,7 @@ if __name__ == '__main__':
     L = [1, 2, 3]
 
     for X in L:  # automatic iteration
-        print(X ** 2, end=' ')
+        print(X ** 2, end=' ')  # 1 4 9
     print('')
 
     It = iter(L)
@@ -14,14 +14,14 @@ if __name__ == '__main__':
             X = next(It)
         except StopIteration:
             break
-        print(X ** 2, end=' ')
+        print(X ** 2, end=' ')  # 1 4 9
     print('')
 
     It = iter(L)
     # instead of breaking on the exception... let the exception break the loop
     try:
         while True:
-            print(next(It) ** 2, end=' ')
+            print(next(It) ** 2, end=' ')  # 1 4 9
     except StopIteration:
         pass
     print('')

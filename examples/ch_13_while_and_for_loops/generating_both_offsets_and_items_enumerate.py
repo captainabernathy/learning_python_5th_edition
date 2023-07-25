@@ -27,11 +27,11 @@ if __name__ == '__main__':
 
     # instead...
     E = enumerate(S)
-    while True:
-        try:
-            print(next(E))
-        except StopIteration:
-            break
+    try:
+        while True:
+            print(next(E))  # (0,'s'), (1,'p'), (2,'a'), (3,'m')
+    except StopIteration:
+        pass
     print('')
 
-    print([c * i for (i, c) in enumerate(S)])  # ['', 'p', 'aa', 'mmm']
+    print([c * (i + 1) for (i, c) in enumerate(S)])  # ['s','pp','aaa','mmmm']
