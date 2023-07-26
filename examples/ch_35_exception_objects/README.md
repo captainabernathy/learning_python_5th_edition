@@ -7,11 +7,11 @@
 * classexc2.py
 
 ### Built-in Exception Classes
-* default_printing_and_state.py
+* default\_printing\_and\_state.py
 
 ### Custom Print Displays
-* custom_print_displays_01.py
+* custom\_print\_displays\_01.py
 
 ### Custom Data and Behavior
-* providing_exception_details.py
+* providing\_exception\_details.py
 * excparse.py
