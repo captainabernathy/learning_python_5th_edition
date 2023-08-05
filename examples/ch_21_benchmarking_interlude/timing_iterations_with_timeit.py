@@ -1,4 +1,7 @@
+# usage: python3 timing_iterations_with_timeit.py
+
 import timeit
+
 # NOTE: with the timeit module, tests are specified by either callable objects
 # or statement strings
 
@@ -11,6 +14,7 @@ def testcase():
 
 if __name__ == '__main__':
     print('code snippets from pages 666-669\n')
+
     # NOTE: the timeit module's repeat() function returns a list that gives
     # the total time taken to run a test a given number of times
     # for each of the repeat runs, the min of the list yields the best time

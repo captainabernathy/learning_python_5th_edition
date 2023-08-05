@@ -1,3 +1,5 @@
+# usage: python3 timeseqs2B.py
+
 '''
 See effect of function call in all
 '''
@@ -50,6 +52,7 @@ def genFunc():
 
 if __name__ == '__main__':
     print('code snippets from page 661\n')
+
     print(sys.version)
     for test in (forLoop, listComp, mapCall, genExpr, genFunc):
         (bestof, (total, result)) = timer.bestoftotal(5, 1000, test)

@@ -1,6 +1,6 @@
 ## Chapter 21 - The Benchmarking Interlude
 
-## Programs
+### Source Code Directory
 
 ### Timing Iteration Alternatives
 * timer0.py
@@ -18,5 +18,5 @@
 * timing\_iterations\_with\_timeit.py
 * mins.py
 * pybench.py
-* timeseqs2B.py
+* timeseqs3.py 
 * pybench2.py

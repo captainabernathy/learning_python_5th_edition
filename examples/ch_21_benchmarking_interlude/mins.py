@@ -1,3 +1,5 @@
+# usage: python3 mins.py
+
 # function returns the minimum element from any number of positional arguments
 # for any type that supports less than comparisons
 def min1(*args):
@@ -35,6 +37,7 @@ def min3(*args):
 
 if __name__ == '__main__':
     print('code snippets from page 564\n')
+
     print(min1(3, 4, 1, 2))  # 1
     print(min2("bb", "aa"))  # aa
     print(min3([2, 2], [1, 1], [3, 3]))  # [1,1]

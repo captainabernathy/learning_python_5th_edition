@@ -1,7 +1,10 @@
+# usage: python3 timer_test.py
+
 import timer
 
 if __name__ == '__main__':
     print('code snippets from pages 653-655\n')
+
     # total time it takes to run pow(2,1000) 1000 times
     print(timer.total(1000, pow, 2, 1000)[0])
     print('')

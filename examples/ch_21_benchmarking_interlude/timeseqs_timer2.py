@@ -1,3 +1,5 @@
+# usage: python3 timeseqs_timer2.py
+
 '''Test the relative speed of iteration tool alternatives: timer2 version'''
 import sys
 import timer2
@@ -48,6 +50,7 @@ def spam(a, b, c, d):
 
 if __name__ == '__main__':
     print('code snippets from pages 661-663\n')
+
     print(sys.version)
     for test in (forLoop, listComp, mapCall, genExpr, genFunc):
         (total, result) = timer2.bestoftotal(test, _reps1=5, _reps=1000)

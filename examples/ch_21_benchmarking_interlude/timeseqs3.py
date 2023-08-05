@@ -1,3 +1,5 @@
+# usage: python3 timeseqs3.py
+
 '''
 Very similar to pybench.py's timeit total, but still not identical: adds
 function call per total loop, uses prebuilt list for range instead of generator
@@ -46,6 +48,7 @@ def genFunc():
 
 if __name__ == '__main__':
     print('code snippets from page 676\n')
+
     print(sys.version)
     for test in (forLoop, listComp, mapCall, genExpr, genFunc):
         (bestof, (total, result)) = timer.bestoftotal(5, 1000, test)

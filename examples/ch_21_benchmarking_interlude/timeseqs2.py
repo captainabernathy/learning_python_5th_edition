@@ -1,3 +1,5 @@
+# usage: python3 timeseqs2.py
+
 '''
 See effect of function call in map only
 '''
@@ -45,6 +47,7 @@ def genFunc():
 
 if __name__ == '__main__':
     print('code snippets from pages 659-660\n')
+
     print(sys.version)
     for test in (forLoop, listComp, mapCall, genExpr, genFunc):
         (bestof, (total, result)) = timer.bestoftotal(5, 1000, test)
