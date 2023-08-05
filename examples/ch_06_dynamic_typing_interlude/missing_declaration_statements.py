@@ -1,3 +1,5 @@
+# usage: python3 missing_declaration_statements.py
+
 if __name__ == '__main__':
     print('code snippets from pages 182-185\n')
 

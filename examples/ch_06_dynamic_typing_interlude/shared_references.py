@@ -1,3 +1,5 @@
+# usage: python3 shared_references.py
+
 import sys
 
 if __name__ == '__main__':
