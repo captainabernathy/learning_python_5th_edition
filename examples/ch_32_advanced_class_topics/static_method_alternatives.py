@@ -1,3 +1,5 @@
+# usage: python(2/3) static_method_alternatives.py
+
 from __future__ import print_function
 
 

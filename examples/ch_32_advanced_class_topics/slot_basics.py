@@ -1,3 +1,5 @@
+# usage: python3 slot_basics.py
+
 # NOTE: __slots__ are a class attribute that contains a list of names that
 # limits the set of legal attributes that an instance of the class will have...
 # only the names in the slots list can be assigned instance attributes

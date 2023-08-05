@@ -1,3 +1,5 @@
+# usage: python3 limitation_operator_overloading.py
+
 # class that only overloads operator [] (__getitem__())
 class C:
     # overloads operator "[]"

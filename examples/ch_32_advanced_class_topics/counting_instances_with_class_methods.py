@@ -1,3 +1,5 @@
+# usage: python3 counting_instances_with_class_methods.py
+
 from spam_class import Spam
 from spam_class import Sub
 from spam_class import Other

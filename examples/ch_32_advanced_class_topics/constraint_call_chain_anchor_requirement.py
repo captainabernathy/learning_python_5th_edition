@@ -1,3 +1,5 @@
+# usage: python3 constraint_call_chain_anchor_requirement.py
+
 class B1:
     def __init__(self):
         print('B1.__init__')

@@ -1,3 +1,5 @@
+# usage: python3 changing_mutable_class_attributes_can_have_side_effects_too.py
+
 class C:
     shared = []  # Mutable class attribute
 
@@ -6,6 +8,8 @@ class C:
 
 
 if __name__ == '__main__':
+    print('code snippets from page 1102\n')
+
     x = C()
     y = C()
     print(x.shared, y.perobj)  # [] []

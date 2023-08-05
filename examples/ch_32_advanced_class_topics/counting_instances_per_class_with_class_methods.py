@@ -1,8 +1,12 @@
+# usage: python3 counting_instances_per_class_with_class_methods.py
+
 from spam_class2 import Spam
 from spam_class2 import Sub
 from spam_class2 import Other
 
 if __name__ == '__main__':
+    print('code snippets from page 1068\n')
+
     x = Spam()
     y1, y2 = Sub(), Sub()
     z1, z2, z3 = Other(), Other(), Other()

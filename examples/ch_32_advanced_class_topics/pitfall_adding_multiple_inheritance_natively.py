@@ -1,3 +1,5 @@
+# usage: python3 pitfall_adding_multiple_inheritance_natively.py
+
 # NOTE: with multiple inheritance, methods invoked through the proxy object
 # returned from super() will be routed per MRO order, which, depending on
 # where else super() might be used, might invoke a method in a class that is

@@ -1,3 +1,5 @@
+# usage: python3 runtime_class_changes_and_super.py
+
 # class that provides a single method m()
 class X:
     def m(self):

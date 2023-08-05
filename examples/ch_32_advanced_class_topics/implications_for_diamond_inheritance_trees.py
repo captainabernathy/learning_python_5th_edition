@@ -1,3 +1,5 @@
+# usage: python(2/3) implications_for_diamond_inheritance_trees.py
+
 # old style class in 2X, new style class in 3X
 class A:
     attr = 1

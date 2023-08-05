@@ -1,3 +1,5 @@
+# usage: python3 customization_same_argument_constraints.py
+
 # common superclass... takes two arguments
 class Employee:
     def __init__(self, name, salary):

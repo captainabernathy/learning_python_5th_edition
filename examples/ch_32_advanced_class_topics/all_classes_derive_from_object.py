@@ -1,3 +1,5 @@
+# usage: python(2/3) all_classes_derive_from_object.py
+
 from __future__ import print_function
 
 # NOTE: a type object's type is type and object's type is type... and a type

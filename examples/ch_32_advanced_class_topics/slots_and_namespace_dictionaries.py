@@ -1,3 +1,5 @@
+# usage: python3 slots_and_namespace_dictionaries.py
+
 # NOTE: classes that use __slots__ do NOT have a __dict__ attribute by default
 class C:  # Note (object) required in 2x
     __slots__ = ['a', 'b']

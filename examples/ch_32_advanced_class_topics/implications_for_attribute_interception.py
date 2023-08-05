@@ -1,3 +1,5 @@
+# usage: python(2/3) implications_for_attribute_interception.py
+
 # In 2X classes dreived from object are treated as new style classes if no
 # other built-in type is appropriate to use
 from __future__ import print_function

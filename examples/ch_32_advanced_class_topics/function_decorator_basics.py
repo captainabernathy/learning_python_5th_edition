@@ -1,3 +1,5 @@
+# usage: python3 function_decorator_basics.py
+
 from spam_static_deco import Spam
 from bothmethods_decorators import Methods
 

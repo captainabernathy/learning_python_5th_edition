@@ -1,3 +1,5 @@
+# usage: python3 tracer1.py
+
 class tracer:
     def __init__(self, func):
         self.calls = 0

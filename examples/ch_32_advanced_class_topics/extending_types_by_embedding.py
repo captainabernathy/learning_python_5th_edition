@@ -1,3 +1,5 @@
+# usage: python3 extending_types_by_embedding.py
+
 # program demonstrates how to use the setwrapper module's Set class
 
 from setwrapper import Set

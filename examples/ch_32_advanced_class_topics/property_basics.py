@@ -1,3 +1,5 @@
+# usage: python(2/3) property_basics.py
+
 from __future__ import print_function
 
 

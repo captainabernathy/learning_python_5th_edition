@@ -1,3 +1,5 @@
+# usage: python(2/3) mapattrs.py
+
 '''
 mapattrs.py
 

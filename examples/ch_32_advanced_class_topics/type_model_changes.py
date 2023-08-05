@@ -1,3 +1,5 @@
+# usage: python(2/3) type_model_changes.py
+
 from __future__ import print_function
 
 # NOTE: new style classes are types, and types themselves are new style classes

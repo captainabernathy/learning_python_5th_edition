@@ -1,3 +1,5 @@
+# usage: python3 tracer2.py
+
 # provides a handle to a nested function that maintains state through its
 # enclosing scope
 def tracer(func):

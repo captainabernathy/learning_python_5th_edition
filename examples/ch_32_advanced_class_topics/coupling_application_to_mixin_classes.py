@@ -1,3 +1,5 @@
+# usage: python3 coupling_application_to_mixin_classes.py
+
 # mixins work for disjoint method sets
 class A1:
     def other(self):

@@ -1,3 +1,5 @@
+# usage: python3 customization_method_replacement.py
+
 class A1:
     def method(self):
         print('A1.method')

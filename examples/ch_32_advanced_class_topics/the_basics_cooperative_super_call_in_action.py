@@ -1,3 +1,5 @@
+# usage: python3 the_basics_cooperative_super_call_in_action.py
+
 class B1:
     def __init__(self):
         print('B1.__init__')

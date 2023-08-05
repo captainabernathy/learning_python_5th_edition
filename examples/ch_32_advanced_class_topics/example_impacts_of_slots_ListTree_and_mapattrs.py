@@ -1,3 +1,5 @@
+# usage: python3 example_impacts_of_slots_ListTree_and_mapattrs.py
+
 import sys
 
 

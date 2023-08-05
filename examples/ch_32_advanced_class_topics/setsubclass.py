@@ -1,3 +1,5 @@
+# usage: python3 setsubclass.py
+
 # program implements a class that extends python's list class so that it
 # provides "set-like" features and demonstrates its usage
 

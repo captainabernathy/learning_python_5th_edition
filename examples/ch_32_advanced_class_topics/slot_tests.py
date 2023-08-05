@@ -1,3 +1,5 @@
+# usage: python(2/3) slot_tests.py
+
 from __future__ import print_function
 import timeit
 

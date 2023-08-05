@@ -1,3 +1,5 @@
+# usage: python(2/3) traditional_superclass_call_form.py
+
 from __future__ import print_function
 
 

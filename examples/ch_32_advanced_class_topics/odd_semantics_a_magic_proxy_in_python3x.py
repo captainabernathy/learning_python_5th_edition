@@ -1,3 +1,5 @@
+# usage: python3 odd_semantics_a_magic_proxy_in_python3x.py
+
 # class provides a single method, act()
 class C:
     def act(self):

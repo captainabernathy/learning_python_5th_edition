@@ -1,3 +1,5 @@
+# usage: python(2/3) use_differs_in_python2x_verbose_calls.py
+
 from __future__ import print_function
 
 # NOTE: to use super() with a new-style class in python 2X, you must

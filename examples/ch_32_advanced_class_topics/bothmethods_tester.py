@@ -1,3 +1,5 @@
+# usage: python3 bothmethods_tester.py
+
 from bothmethods import Methods
 
 

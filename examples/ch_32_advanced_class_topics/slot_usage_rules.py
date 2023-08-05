@@ -1,3 +1,5 @@
+# usage: python3 slot_usage_rules.py
+
 # NOTE: a namespace __dict__ dict is created when any class in an inheritance
 # hierarchy does not define a __slots__ attribute
 class C:

@@ -1,3 +1,5 @@
+# usage: python3 handling_slots_and_other_virtual_attributes_generically.py
+
 class Slotful:
     '''
     shows how to support slots as instance data

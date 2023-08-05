@@ -1,3 +1,5 @@
+# usage: python3 flexibility_call_ordering_assumptions.py
+
 class B:
     def __init__(self):
         print('B.__init__')

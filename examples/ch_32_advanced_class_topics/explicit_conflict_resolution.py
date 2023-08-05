@@ -1,3 +1,5 @@
+# usage: python(2/3) explicit_conflict_resolution.py
+
 from __future__ import print_function
 
 

@@ -1,3 +1,5 @@
+# usage: pytyhon3 changing_class_attributes_can_have_side_effects.py
+
 class X1:
     a = 1  # class attribute
 

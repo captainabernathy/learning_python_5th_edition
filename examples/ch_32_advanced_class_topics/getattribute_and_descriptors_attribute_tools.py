@@ -1,3 +1,5 @@
+# usage: python3 getattribute_and_descriptors_attribute_tools.py
+
 # NOTE: attribute descriptors refer to  __get__() and __set__() methods that
 # are assigned to class attributes (and inherited by instances) and intercept
 # read and write access to specific attributes

@@ -1,3 +1,5 @@
+# usage: python3 counting_instances_with_static_methods.py
+
 from spam_static import Spam
 from spam_static import Sub
 from spam_static import Other

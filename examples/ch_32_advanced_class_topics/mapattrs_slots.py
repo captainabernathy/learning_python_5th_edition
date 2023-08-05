@@ -1,3 +1,5 @@
+# usage: python3 mapattrs_slots.py
+
 from mapattrs import mapattrs
 from mapattrs import trace
 

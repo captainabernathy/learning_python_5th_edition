@@ -1,3 +1,5 @@
+# usage: python3 typesubclass.py
+
 # program implements a class that extends python's list class so that it
 # supports one-based indexing via __getitem__() and demonstrates its usage
 

@@ -1,3 +1,5 @@
+# usage: python3 scope_an_all_or_nothing_model.py
+
 class B1:
     def __init__(self):
         print('B1.__init__')

@@ -1,3 +1,5 @@
+# usage: python(2/3) static_methods_in_2x_and_3x.py
+
 # NOTE: in 3X it is not necessary to declare a method as static in order to
 # call it from the class, BUT it IS necessary to declare the method as static
 # in order to call it from an instance

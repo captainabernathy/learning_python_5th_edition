@@ -1,3 +1,5 @@
+# usage: python3 mapattrs_tester.py
+
 import sys
 from mapattrs import trace
 from mapattrs import dflr

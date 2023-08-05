@@ -1,3 +1,5 @@
+# usage: python(2/3) implications_for_defaults.py
+
 from __future__ import print_function
 
 

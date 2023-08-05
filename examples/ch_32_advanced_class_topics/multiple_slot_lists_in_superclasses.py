@@ -1,3 +1,5 @@
+# usage: python3 multiple_slot_lists_in_superclasses.py
+
 # NOTE: an instance inherits the union of the slots on its class tree
 class E:
     __slots__ = ['c', 'd']
