@@ -1,5 +1,8 @@
+# usage: python3 list_method_calls.py
+
 if __name__ == '__main__':
     print('code snippets from pages 254-255\n')
+
     L = ['eat', 'more', 'SPAM!']
     print(L)  # ['eat', 'more', 'SPAM!']
     print('')

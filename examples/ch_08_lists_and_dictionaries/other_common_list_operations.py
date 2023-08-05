@@ -1,5 +1,8 @@
+# usage: python3 other_common_list_operations.py
+
 if __name__ == '__main__':
     print('code snippets from page 258\n')
+
     L = ['spam', 'eggs', 'ham', 'toast']
     print(L)  # ['spam', 'eggs', 'ham', 'toast']
 

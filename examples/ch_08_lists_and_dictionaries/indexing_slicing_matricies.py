@@ -1,5 +1,8 @@
+# usage: python3 indexing_slicing_matricies.py
+
 if __name__ == '__main__':
     print('code snippets from pages 251-252\n')
+
     L = ['spam', 'Spam', 'SPAM!']
     print(L)  # ['spam', 'Spam', 'SPAM!']
     print(L[2])   # offset starts at 0... SPAM!

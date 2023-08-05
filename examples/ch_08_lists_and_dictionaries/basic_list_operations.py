@@ -1,5 +1,8 @@
+# usage: python3 basic_list_operations.py
+
 if __name__ == '__main__':
     print('code snippets from page 250\n')
+
     # basic list operations
 
     # length

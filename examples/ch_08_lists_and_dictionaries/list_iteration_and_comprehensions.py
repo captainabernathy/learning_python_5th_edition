@@ -1,5 +1,8 @@
+# usage: python3 list_iteration_and_comprehensions.py
+
 if __name__ == '__main__':
     print('code snippets from pages 250-251\n')
+
     # membership test
     print(3 in [1, 2, 3])  # True
     print('')

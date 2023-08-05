@@ -1,5 +1,8 @@
+# usage: python3 sorting_dictionary_keys.py
+
 if __name__ == '__main__':
     print('code snippets from pages 278-280\n')
+
     D = {'a': 1, 'b': 2, 'c': 3}  # dictionary with 3 keys
     print(D)
 

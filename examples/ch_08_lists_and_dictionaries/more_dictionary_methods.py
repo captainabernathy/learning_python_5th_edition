@@ -1,5 +1,8 @@
+# usage: python3 more_dictionary_methods.py
+
 if __name__ == '__main__':
     print('code snippets from pages 263-264\n')
+
     D = {'spam': 2, 'ham': 1, 'eggs': 3}
     print(D)
 

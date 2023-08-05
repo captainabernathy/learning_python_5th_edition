@@ -1,5 +1,8 @@
+# usage: python3 other_common_list_methods.py
+
 if __name__ == '__main__':
     print('code snippets from pages 257-258\n')
+
     L = [1, 2]
     print(L)  # [1, 2]
 
@@ -51,8 +54,8 @@ if __name__ == '__main__':
     L.remove('eggs')  # delete by value
     print(L)  # ['spam', toast', 'ham']
 
-    # NOTE: when provided an index, a list's pop() method will remove and 
-    # return the element at that index in this list and decrease the list's 
+    # NOTE: when provided an index, a list's pop() method will remove and
+    # return the element at that index in this list and decrease the list's
     # length by 1
     print(L.pop(1))  # delete by position
     print(L)  # ['spam', 'ham']

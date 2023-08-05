@@ -1,5 +1,8 @@
+# usage: python3 dictionary_movie_database.py
+
 if __name__ == '__main__':
     print('code snippets from page 265\n')
+
     table = {'1975': 'Holy Grail',
              '1979': 'Life of Brian',
              '1983': 'The Meaning of Life'}

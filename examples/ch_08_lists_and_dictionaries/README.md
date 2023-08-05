@@ -1,6 +1,6 @@
 ## Chapter 8 - Lists and Dictionaries
 
-## Programs
+### Source Code Directory
 
 ### Lists in Action
 * basic\_list\_operations.py

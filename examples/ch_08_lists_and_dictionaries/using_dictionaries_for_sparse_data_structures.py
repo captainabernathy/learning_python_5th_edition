@@ -1,5 +1,8 @@
+# usage: python3 using_dictionaries_for_sparse_data_structures.py
+
 if __name__ == '__main__':
     print('code snippets from pages 268-269\n')
+
     Matrix = {}  # empty dictionary
     # hypothetical 3D array
     # use keys as coordinates that have some associated value

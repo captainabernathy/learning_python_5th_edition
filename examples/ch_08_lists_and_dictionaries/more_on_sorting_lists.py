@@ -1,5 +1,8 @@
+# usage: python3 more_on_sorting_lists.py
+
 if __name__ == '__main__':
     print('code snippets from pages 255-256\n')
+
     # NOTE: capital letters have a lower numeric value than lowercase letters
     L = ['abc', 'ABD', 'aBe']
     print(L)  # ['abc', 'ABD', 'aBe']

@@ -1,5 +1,8 @@
+# usage: python3 dictionary_comprehensions_in_3x_and_27.py
+
 if __name__ == '__main__':
     print('code snippets from pages 274-275\n')
+
     # the zip() function can be used to construct a list of tuples or a
     # dictionary from a list of keys and values
     D1 = list(zip(['a', 'b', 'c'], [1, 2, 3]))  # zip together keys and values

@@ -1,5 +1,8 @@
+# usage: python3 index_and_slice_assignments.py
+
 if __name__ == '__main__':
     print('code snippets from pages 252-254\n')
+
     L = ['spam', 'Spam', 'SPAM!']
     print(L)  # ['spam', 'Spam', 'SPAM!']
     print('')

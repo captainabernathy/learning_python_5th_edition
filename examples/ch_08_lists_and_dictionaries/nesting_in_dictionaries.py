@@ -1,5 +1,8 @@
+# usage: python3 nesting_in_dictionaries.py
+
 if __name__ == '__main__':
     print('code snippets from pages 270-271\n')
+
     rec = {}
     rec['name'] = 'Bob'
     rec['age'] = 40.5

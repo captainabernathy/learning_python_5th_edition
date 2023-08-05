@@ -1,5 +1,8 @@
+# usage: python3 changing_dictionaries_in_place.py
+
 if __name__ == '__main__':
     print('code snippets from page 263\n')
+
     D = {'spam': 2, 'ham': 1, 'eggs': 3}
     print(D)
 

@@ -1,5 +1,8 @@
+# usage: python3 mapping_values_to_keys.py
+
 if __name__ == '__main__':
     print('code snippets from pages 266-267\n')
+
     table = {'Holy Grail': '1975',
              'Life of Brian': '1979',
              'The Meaning of Life': '1983'}

@@ -1,5 +1,8 @@
+# usage: python3 avoiding_missing_key_errors.py
+
 if __name__ == '__main__':
     print('code snippets from page 269\n')
+
     Matrix = {}  # empty dictionary
     # hypothetical 3D array
     # use keys as coordinates that have some associated value
@@ -21,7 +24,7 @@ if __name__ == '__main__':
         print(0)
     print('')
 
-    # use dictionary's get() method and provided it with a default argument 
+    # use dictionary's get() method and provided it with a default argument
     # when searching for a potentially non-existent key
     print(Matrix.get((2, 3, 4), 0))  # 0 if not there
     print(Matrix.get((2, 3, 6), 0))

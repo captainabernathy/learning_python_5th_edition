@@ -1,5 +1,8 @@
+# usage: python3 other_ways_to_make_dictionaries.py
+
 if __name__ == '__main__':
     print('code snippets from pages 271-272\n')
+
     # build dictionary using literals
     D1 = {'name': 'Bob', 'age': 40}
     print(D1)

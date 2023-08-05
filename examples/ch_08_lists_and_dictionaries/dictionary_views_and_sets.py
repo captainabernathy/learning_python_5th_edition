@@ -1,5 +1,8 @@
+# usage: python3 dictionary_views_and_sets.py
+
 if __name__ == '__main__':
     print('code snippets from page 278\n')
+
     D = dict(a=1, b=None, c=3)  # dictionary with 3 keys
     K = D.keys()  # key view
     V = D.values()  # values view

@@ -1,5 +1,8 @@
+# usage: python3 dictionary_views.py
+
 if __name__ == '__main__':
     print('code snippets from pages 276-277\n')
+
     D = dict(a=1, b=2, c=3)  # build a dictionary
     print(D)
     print('')

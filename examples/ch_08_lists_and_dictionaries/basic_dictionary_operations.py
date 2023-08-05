@@ -1,5 +1,8 @@
+# usage: python3 basic_dictionary_operations.py
+
 if __name__ == '__main__':
     print('code snippets from pages 261-262\n')
+
     # create a dictionary using key:value pairs
     D = {'spam': 2, 'ham': 1, 'eggs': 3}
     print(D)  # unorder
