@@ -1,3 +1,5 @@
+# usage: python3 generation_in_builtin_types_tools_and_classes.py
+
 # function prints its arguments
 def f(a, b, c):
     print('%s, %s, and %s' % (a, b, c))
@@ -5,6 +7,7 @@ def f(a, b, c):
 
 if __name__ == '__main__':
     print('code snippets from pages 629-631\n')
+
     D = {'a': 1, 'b': 2, 'c': 3}
     print(D)  # {'a':1,'b':2,'c':3}
     # NOTE: dictionaries are iterables with iterators that produce keys on each

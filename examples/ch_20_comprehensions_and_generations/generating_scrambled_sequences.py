@@ -1,3 +1,5 @@
+# usage: python3 generating_scrambled_sequences.py
+
 # returns a list that contains reorderings of the elements in seq such that
 # the first element in seq is successively moved to the end of the sequqnce
 # for each element in seq
@@ -34,6 +36,7 @@ def scramble4(seq):
 
 if __name__ == '__main__':
     print('code snippets from pages 632-634\n')
+
     L, S = [1, 2, 3], 'spam'
     print(L)
     print(S)

@@ -1,7 +1,10 @@
+# usage: python3 generator_expressions_vs_map.py
+
 import math
 
 if __name__ == '__main__':
     print('code snippets from pages 622-623\n')
+
     # map a function on a tuple
     print(list(map(abs, (-1, -2, 3, 4))))  # [-1,-2,3,4]
 

@@ -1,3 +1,5 @@
+# usage: python3 extended_generator_function_protocol_send_vs_next.py
+
 def gen():
     for i in range(10):
         # NOTE: when used in an assignment statement, a yield expression must
@@ -9,6 +11,7 @@ def gen():
 
 if __name__ == '__main__':
     print('code snippets from page 619\n')
+
     # NOTE: technically yield is an expression (since 2.5) that returns the
     # item passed to send()... NOT a statement
     # send() advances to the next item in a series of results like __next__(),

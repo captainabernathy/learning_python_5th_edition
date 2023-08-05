@@ -1,5 +1,8 @@
+# usage: python3 emulating_zip_and_map_with_iteration_tools.py
+
 if __name__ == '__main__':
     print('code snippets from pages 640-644\n')
+
     S1 = 'abc'
     S2 = 'xyz123'
     print(list(zip(S1, S2)))  # [('a','x'),('b','y'),('c','z')]

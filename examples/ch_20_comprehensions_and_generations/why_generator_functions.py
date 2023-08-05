@@ -1,3 +1,5 @@
+# usage: python3 why_generator_functions.py
+
 # function that returns a list that consist of the square of the numbers of
 # [0,n-1]
 def buildsquares(n):
@@ -16,6 +18,7 @@ def ups(line):
 
 if __name__ == '__main__':
     print('code snippets from pages 617-618\n')
+
     for x in buildsquares(5):
         print(x, end=' : ')  # 0 1 4 9 16
     print('\n')

@@ -1,5 +1,8 @@
+# usage: python3 generator_expressions_iterables_meet_comprehensions.py
+
 if __name__ == '__main__':
     print('code snippets from pages 620-621\n')
+
     print([x ** 2 for x in range(4)])  # list comprehension... build a list
     print(list(x ** 2 for x in range(4)))  # [0,1,4,9] same as ^^^
     print('')

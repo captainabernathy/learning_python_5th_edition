@@ -1,3 +1,5 @@
+# usage: python3 mymap.py
+
 # returns a list containing the results of mapping func successively
 # to each sequence contained in seqs
 def mymap1(func, *seqs):
@@ -154,6 +156,7 @@ def mymapPad4(*seqs, pad=None):
 
 if __name__ == '__main__':
     print('code snippets from pages 640-644\n')
+
     print(mymap1(abs, [-2, -1, 0, 1, 2]))  # [2,1,0,1,2]
     print(mymap1(pow, [1, 2, 3], [2, 3, 4, 5]))  # [1,8,81]
     print('')

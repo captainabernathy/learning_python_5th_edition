@@ -1,3 +1,5 @@
+# usage: python3 generators_are_single_iteration_objects.py
+
 # generator function that for each element in S, yields the result of that
 # element times for for any element that defines multiplication
 def timesfour(S):
@@ -7,6 +9,7 @@ def timesfour(S):
 
 if __name__ == '__main__':
     print('code snippets from pages 627-628\n')
+
     # generator expression equivalent to timesfour()
     G = (c * 4 for c in 'SPAM')
     

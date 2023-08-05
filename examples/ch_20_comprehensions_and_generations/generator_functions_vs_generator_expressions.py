@@ -1,3 +1,5 @@
+# usage: python3 generator_functions_vs_generator_expressions.py
+
 # generator function that for each element in S, yields the result of that
 # element times for for any element that defines multiplication
 def timesfour(S):  # generator function
@@ -15,6 +17,7 @@ def gensub(line):
 
 if __name__ == '__main__':
     print('code snippets from pages 625-626\n')
+
     G = (c * 4 for c in 'SPAM')  # generator expression... same as timesfour()
     print(list(G))  # ['SSSS','PPPP','AAAA','MMMM']... evaulation
 

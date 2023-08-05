@@ -1,3 +1,5 @@
+# usage: python3 scramble_tester.py
+
 # program uses scramble module to test the intersect() and union() functions
 # of the module inter2
 from scramble import scramble
@@ -20,6 +22,7 @@ def tester(func, items, trace=True):
 
 if __name__ == '__main__':
     print('code snippets from page 635\n')
+
     # set intersection
     tester(intersect, ('aab', 'abcde', 'ababab'))
     print('')

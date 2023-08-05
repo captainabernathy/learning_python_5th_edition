@@ -1,5 +1,8 @@
+# usage: python3 list_comprehensions_vs_map.py
+
 if __name__ == '__main__':
     print('code snippets from pages 604-605\n')
+
     res = []
     for x in 'spam':
         res.append(ord('x'))

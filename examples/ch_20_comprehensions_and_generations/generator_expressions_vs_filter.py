@@ -1,5 +1,8 @@
+# usage: python3 generator_expressions_vs_filter.py
+
 if __name__ == '__main__':
     print('code snippets from page 624\n')
+
     line = 'aa bbb c'
 
     # generator expression with if test

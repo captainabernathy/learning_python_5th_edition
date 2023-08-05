@@ -1,5 +1,8 @@
+# usage: python3 formal_comprehension_syntax.py
+
 if __name__ == '__main__':
     print('code snippets from page 607\n')
+
     # list comprehension that adds the each element in the first list to
     # each element in the second list
     res = [x + y for x in [0, 1, 2] for y in [100, 200, 300]]

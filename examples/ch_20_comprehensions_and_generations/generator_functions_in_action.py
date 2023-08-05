@@ -1,3 +1,5 @@
+# usage: python3 generator_functions_in_action.py
+
 # NOTE: a generator function yields its result to its caller... a yield
 # statement suspends a function and sends a value back to the caller, but
 # retains enough state to enable the function to resume from where it left
@@ -12,6 +14,7 @@ def gensquares(N):
 
 if __name__ == '__main__':
     print('code snippets from pages 615-617\n')
+
     for i in gensquares(5):
         print(i, end=' : ')  # 0 1 4 9 16
     print('\n')

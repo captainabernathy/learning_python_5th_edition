@@ -1,3 +1,5 @@
+# usage: python3 space_and_time_conciseness_expressiveness.py
+
 import math
 import random
 from permute import permute1
@@ -6,6 +8,7 @@ from permute import permute2
 
 if __name__ == '__main__':
     print('code snippets from pages 638-639\n')
+
     print(math.factorial(10))  # 10! = 3,628,800
     print('')
 

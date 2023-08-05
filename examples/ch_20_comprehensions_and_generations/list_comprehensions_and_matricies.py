@@ -1,5 +1,8 @@
+# usage: python3 list_comprehensions_and_matricies.py
+
 if __name__ == '__main__':
     print('code snippets from pages 608-610\n')
+
     M = [[1, 2, 3],
          [4, 5, 6],
          [7, 8, 9]]

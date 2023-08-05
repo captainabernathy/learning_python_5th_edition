@@ -1,5 +1,8 @@
+# usage: python3 comprehending_set_and_dictionary_comprehensions.py
+
 if __name__ == '__main__':
     print('code snippets from pages 647-648\n')
+
     print({x * x for x in range(10)})  # {0,1,64,4,36,9,16,49,81,25}
     print(set(x * x for x in range(10)))  # {0,1,64,4,36,9,16,49,81,25}
     print('')

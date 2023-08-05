@@ -1,5 +1,8 @@
+# usage: python3 extended_comprehension_syntax_for_sets_and_dictionaries.py
+
 if __name__ == '__main__':
     print('code snippets from pages 648-649\n')
+
     # list comprehension
     print([x * x for x in range(10) if not x % 2])  # [0,4,16,36,64]
 

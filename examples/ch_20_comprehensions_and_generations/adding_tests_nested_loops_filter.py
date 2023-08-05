@@ -1,5 +1,8 @@
+# usage: python3 adding_tests_nested_loops_filter.py
+
 if __name__ == '__main__':
     print('code snippets from pages 605-606\n')
+
     # list comprehension that returns the even numbers in [0,4]
     print([x for x in range(5) if not x % 2])  # [0,2,4]
 

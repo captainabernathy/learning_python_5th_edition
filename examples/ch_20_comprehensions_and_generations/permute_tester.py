@@ -1,3 +1,5 @@
+# usage: python3 permute_tester.py
+
 # program demonstrates usage of the permute1() and permute2() functions
 # found in the permute module
 from scramble import scramble
@@ -6,6 +8,7 @@ from permute import permute2
 
 if __name__ == '__main__':
     print('code snippets from pages 635-637\n')
+
     print(list(scramble('abc')))
     print('')
 
