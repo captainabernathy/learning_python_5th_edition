@@ -1,3 +1,7 @@
+# usage: python3 docstrings.py
+# or...
+# import docstrings
+
 '''
 Module documentation
 Words Go here
@@ -18,6 +22,7 @@ can w have your liver then?
 
 if __name__ == '__main__':
     print('code snippets from page 465\n')
+
     print(square(4))
     print(square.__doc__)  # function documentation
 

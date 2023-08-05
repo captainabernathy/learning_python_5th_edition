@@ -1,3 +1,5 @@
+# usage: python3 the_dir_function.py
+
 # returns a list that contains the named elements of the object passed to it
 def dir1(x):
     return [a for a in dir(x) if not a.startswith('__')]
@@ -5,6 +7,7 @@ def dir1(x):
 
 if __name__ == '__main__':
     print('code snippets from pages 462-464\n')
+
     import sys
 
     # NOTE: the dir() function returns a list of all of the attributes

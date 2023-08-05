@@ -1,3 +1,5 @@
+# usage: python3 pydoc_help_function.py
+
 import docstrings
 import sys
 

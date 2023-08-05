@@ -1,3 +1,5 @@
+# usage: python3 builtin_docstrings.py
+
 import sys
 
 if __name__ == '__main__':
