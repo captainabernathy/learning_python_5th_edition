@@ -1,6 +1,6 @@
 ## Chapter 27 - Class Coding Basics
 
-## Programs
+### Source Code Directory
 
 ### Classes Generate Multiple Instance Objects
 * first\_example.py

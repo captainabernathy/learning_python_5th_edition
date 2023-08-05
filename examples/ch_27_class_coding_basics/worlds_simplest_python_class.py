@@ -1,3 +1,5 @@
+# usage: python3 worlds_simplest_python_class.py
+
 class rec:
     pass  # empty namespace object
 
@@ -8,6 +10,7 @@ def uppername(obj):
 
 if __name__ == "__main__":
     print('code snippets from pages 836-838\n')
+
     # add attributes to rec directly
     rec.name = 'Bob'
     rec.age = 40

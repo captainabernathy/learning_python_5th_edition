@@ -1,3 +1,5 @@
+# usage: python3 records_revisited_classes_vs_dictionaries.py
+
 from collections import namedtuple
 
 
@@ -17,6 +19,7 @@ class Person:
 
 if __name__ == '__main__':
     print('code snippets from pages 839-841\n')
+
     rec1 = ('Bob', 40.5, ['dev', 'mgr'])  # tuple-based record
     print(rec1)  # ('Bob',40.5,['dev','mgr'])
     print(rec1[0])  # Bob

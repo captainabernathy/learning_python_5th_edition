@@ -1,3 +1,5 @@
+# usage: python3 first_example.py
+
 class FirstClass:
     def setdata(self, value):
         self.data = value
@@ -8,6 +10,7 @@ class FirstClass:
 
 if __name__ == "__main__":
     print('code snippet from pages 825-827\n')
+
     x = FirstClass()
     y = FirstClass()
 

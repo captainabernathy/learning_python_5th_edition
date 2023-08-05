@@ -1,3 +1,5 @@
+# usage: python3 third_example.py
+
 from second_example import SecondClass
 
 
@@ -23,6 +25,7 @@ class ThirdClass(SecondClass):
 
 if __name__ == '__main__':
     print('code snippets from page 833\n')
+
     a = ThirdClass('abc')  # build a ThirdClass object
     a.display()  # Current value = abc... calls SecondClass's display() method
     print(a)  # [ThirdClass: abc]... invokes __str__()
