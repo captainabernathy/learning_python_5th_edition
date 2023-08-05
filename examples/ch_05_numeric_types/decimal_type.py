@@ -1,8 +1,11 @@
+# usage: python3 decimal_type.py
+
 import decimal
 from decimal import Decimal
 
 if __name__ == '__main__':
     print('code snippets from pages 163-164\n')
+
     print(0.1 + 0.1 + 0.1 - 0.3)  # not 0.0 bc floating-point arithmetic
 
     # NOTE: pass strings to Decimal to get expected result

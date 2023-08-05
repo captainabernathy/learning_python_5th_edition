@@ -1,3 +1,5 @@
+# usage: python3 variables_and_basic_expressions.py
+
 if __name__ == '__main__':
     print('code snippets from pages 146-147\n')
 

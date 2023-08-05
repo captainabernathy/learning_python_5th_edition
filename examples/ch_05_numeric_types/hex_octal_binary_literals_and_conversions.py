@@ -1,5 +1,8 @@
+# usage: python3 hex_octal_binary_literals_and_conversions.py
+
 if __name__ == '__main__':
     print('code snippets from pages 156-158\n')
+
     print(0o1, 0o20, 0o377)  # 1 16 255 (octal)
     print(0x1, 0x10, 0xFF)  # 1 16 255 (hex)
     print(0b1, 0b10000, 0b11111111)  # 1 16 255 (binary)

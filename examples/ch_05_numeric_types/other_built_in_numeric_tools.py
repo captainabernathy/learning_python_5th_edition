@@ -1,8 +1,11 @@
+# usage: python3 other_built_in_numeric_tools.py
+
 import math
 import random
 
 if __name__ == '__main__':
     print('code snippets from pages 160-162\n')
+
     print(math.pi, math.e)  # constants
     print(math.sin(2 * math.pi / 180))  # trig functions
     print(math.sqrt(144), math.sqrt(2))  # square root

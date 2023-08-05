@@ -1,5 +1,8 @@
+# usage: python3 bitwise_operations.py
+
 if __name__ == '__main__':
     print('code snippets from pages 158-160\n')
+
     x = 1
     print(x)
     print(x << 2)  # 4... left shift (1 * (2 ** 2)) = 4

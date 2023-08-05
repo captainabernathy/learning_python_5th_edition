@@ -1,5 +1,8 @@
+# usage: python3 comparisons_normal_and_chained.py
+
 if __name__ == '__main__':
     print('code snippets from pages 149-150\n')
+
     print(1 < 2)  # True
     print(2.0 >= 1)  # True
     print(2.0 == 2.0)  # True

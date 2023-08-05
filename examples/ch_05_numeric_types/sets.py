@@ -1,5 +1,8 @@
+# usage: python3 sets.py
+
 if __name__ == '__main__':
     print('code snippets from pages 169-176\n')
+
     x = set('abcde')
     y = set('bdxyz')
     print(x)  # {'b', 'd', 'c', 'a', 'e'}

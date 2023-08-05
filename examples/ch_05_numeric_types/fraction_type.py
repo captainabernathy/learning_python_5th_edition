@@ -1,9 +1,12 @@
+# usage: python3 fraction_type.py
+
 from fractions import Fraction
 import decimal
 from decimal import Decimal
 
 if __name__ == '__main__':
     print('code snippets from pages 165-168\n')
+
     x = Fraction(1, 3)
     y = Fraction(4, 6)
     print(x)  # 1/3
