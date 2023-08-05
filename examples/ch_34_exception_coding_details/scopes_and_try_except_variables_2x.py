@@ -1,3 +1,5 @@
+# usage: python2 scopes_and_try_except_variables_2x.py
+
 if __name__ == '__main__':
     print 'code snippets from page 1147\n'
 

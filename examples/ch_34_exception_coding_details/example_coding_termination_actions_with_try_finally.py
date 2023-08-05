@@ -1,3 +1,5 @@
+# usage: python3 example_coding_termination_actions_with_try_finally.py
+
 class MyError(Exception):
     pass
 

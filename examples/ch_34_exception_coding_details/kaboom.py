@@ -1,3 +1,5 @@
+# usage: python3 kaboom.py
+
 def kaboom(x, y):
     print(x + y)  # might trigger TypeError
 

@@ -1,6 +1,6 @@
 ## Chapter 34 - Exception Coding Details
 
-## Programs
+### Source Code Directory
 
 ### The try/except/else Statement
 * kaboom.py

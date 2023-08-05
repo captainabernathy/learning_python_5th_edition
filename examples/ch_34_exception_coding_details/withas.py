@@ -1,3 +1,5 @@
+# usage: python3 withas.py
+
 class TraceBlock:
     '''
     TraceBlock provides a context manager that can be use to trace the entry

@@ -1,3 +1,5 @@
+# usage: python3 mergedexc.py
+
 if __name__ == '__main__':
     print('code snippets from pages 1144-1145\n')
 
