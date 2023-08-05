@@ -1,3 +1,5 @@
+# usage: python3 badly.py
+
 import traceback
 
 

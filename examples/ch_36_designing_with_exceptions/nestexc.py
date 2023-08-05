@@ -1,3 +1,5 @@
+# usage: python3 nestexc.py
+
 def action2():
     print(1 + [])  # generates TypeError
 

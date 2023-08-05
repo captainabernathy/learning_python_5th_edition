@@ -1,3 +1,5 @@
+# usage: python3 example_syntactic_nesting.py
+
 def action2():
     print(1 + [])  # generates TypeError
 

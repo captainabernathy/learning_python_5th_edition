@@ -1,3 +1,5 @@
+# usage: python3 exiter.py
+
 import sys
 
 

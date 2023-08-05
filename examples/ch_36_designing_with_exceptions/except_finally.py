@@ -1,3 +1,5 @@
+# usage: python3 except_finally.py
+
 def raise1():
     raise IndexError
 

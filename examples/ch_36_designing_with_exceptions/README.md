@@ -1,6 +1,6 @@
 ## Chapter 36 - Designing with Exceptions
 
-## Programs
+### Source Code Directory
 
 ### Nesting Exception Handlers
 * nestexc.py
