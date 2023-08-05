@@ -1,3 +1,5 @@
+# usage: python3 listinstance2.py
+
 class ListInstance:
     '''
     Mixin class that provides a formatted print() or str() of instances via
@@ -11,7 +13,7 @@ class ListInstance:
         #     # format each as attr=value
         #     result += '\t%s=%s\n' % (attr, self.__dict__[attr])
         # return result
-        # More simply... 
+        # More simply...
         return ''.join('\t%s=%s\n' % (attr, self.__dict__[attr])
                        for attr in sorted(self.__dict__))
 

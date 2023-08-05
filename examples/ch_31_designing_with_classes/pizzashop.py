@@ -1,3 +1,5 @@
+# usage: python(2/3) pizzashop.py
+
 from __future__ import print_function  # for 2.X/3.X interoperability
 from employees import PizzaRobot
 from employees import Server
@@ -41,6 +43,7 @@ class PizzaShop:
 
 if __name__ == '__main__':
     print('code snippets from pages 967-968\n')
+
     scene = PizzaShop()  # build a new PizzaShop
     scene.order('Homer')  # process an order from Homer
     print('\n...\n')

@@ -1,3 +1,5 @@
+# usage: python3 pseudoprivate.py
+
 class C1:
     def meth1(self):
         self.__X = 88  # X is C1's

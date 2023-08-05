@@ -1,3 +1,5 @@
+# usage: python3 oop_and_delegation_wrapper_proxy_objects.py
+
 from trace import Wrapper
 
 

@@ -1,3 +1,5 @@
+# usage: python3 other_callables.py
+
 def square(arg):
     return arg ** 2
 

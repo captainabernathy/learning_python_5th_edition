@@ -1,3 +1,5 @@
+# usage: python3 lister_tester.py
+
 import lister
 
 

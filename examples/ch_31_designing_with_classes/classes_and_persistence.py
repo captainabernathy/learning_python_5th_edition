@@ -1,3 +1,5 @@
+# usage: python3 classes_and_persistence.py
+
 from pizzashop import PizzaShop
 import pickle
 

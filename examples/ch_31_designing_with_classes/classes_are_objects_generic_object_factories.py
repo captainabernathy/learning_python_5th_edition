@@ -1,3 +1,5 @@
+# usage: python3 classes_are_objects_generic_object_factories.py
+
 # returns an instance of aClass constructed with any number of positional and
 # keyword arguments
 def factory(aClass, *pargs, **kargs):  # varargs tuple, dict

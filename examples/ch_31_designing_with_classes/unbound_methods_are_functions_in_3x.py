@@ -1,3 +1,5 @@
+# usage: python3 unbound_methods_are_functions_in_3x.py
+
 class Selfless:
     def __init__(self, data):
         self.data = data

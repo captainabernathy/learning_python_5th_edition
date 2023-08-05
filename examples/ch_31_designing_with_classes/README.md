@@ -1,6 +1,6 @@
 ## Chapter 31 - Designing with Classes
 
-## Programs
+### Source Code Directory
 
 ### OOP and Inheritance: "Is-a" Relationships
 * employees.py
@@ -42,3 +42,5 @@
 * lister.py
 * lister\_tester.py
 
+#### Resource Files
+* trispam.txt

@@ -1,3 +1,5 @@
+# usage: python3 testmixin0.py
+
 from listinstance import ListInstance
 
 

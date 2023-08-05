@@ -1,3 +1,5 @@
+# usage: python3 converters.py
+
 from streams import Processor
 
 
@@ -10,6 +12,7 @@ class Uppercase(Processor):
 if __name__ == '__main__':
     import sys
     print('code snippets from pages 969-970\n')
+
     # obj reads from file trispam.txt, converts lines to uppercase, and writes
     # results to stdout
     obj = Uppercase(open('trispam.txt'), sys.stdout)

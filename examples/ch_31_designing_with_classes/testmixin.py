@@ -1,3 +1,5 @@
+# usage: python3 testmixin.py
+
 import importlib
 
 
@@ -33,6 +35,8 @@ def test_by_name(modname, classname, sept=False):
 
 
 if __name__ == '__main__':
+    print('code snippets from pages 994-995\n')
+
     test_by_name('listinstance', 'ListInstance', True)
     test_by_name('listinherited', 'ListInherited', True)
     test_by_name('listtree', 'ListTree', False)

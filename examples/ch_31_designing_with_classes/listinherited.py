@@ -1,3 +1,5 @@
+# usage: python3 listinherited.py
+
 class ListInherited:
     '''
     Use dir() to collect both instance attrs and names inherited from its

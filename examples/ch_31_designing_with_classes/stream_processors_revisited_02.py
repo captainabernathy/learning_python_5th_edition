@@ -1,3 +1,5 @@
+# usage: python3 stream_processors_revisited_01.py
+
 from converters import Uppercase
 
 

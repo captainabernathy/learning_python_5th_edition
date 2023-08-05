@@ -1,3 +1,5 @@
+# usage: python3 listinstance.py
+
 class ListInstance:
     '''
     Mixin class that provides a formatted print() or str() of instances via

@@ -1,3 +1,5 @@
+# usage: python3 listtree2.py
+
 class ListTree:
     '''
     mixin that returns a __str__ trace of the entire class tree and all of its

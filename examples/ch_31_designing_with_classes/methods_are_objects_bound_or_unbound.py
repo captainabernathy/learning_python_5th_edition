@@ -1,3 +1,5 @@
+# usage: python3 methods_are_objects_bound_or_unbound.py
+
 class Spam:
     def doit(self, message):
         print(message)

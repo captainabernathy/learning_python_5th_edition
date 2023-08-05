@@ -1,3 +1,5 @@
+# usage: python3 bound_methods_and_other_callable_objects.py
+
 class Number:
     def __init__(self, base):
         self.base = base

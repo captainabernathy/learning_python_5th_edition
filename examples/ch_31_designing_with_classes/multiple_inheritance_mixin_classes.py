@@ -1,3 +1,5 @@
+# usage: python3 multiple_inheritance_mixin_classes.py
+
 from listinstance import ListInstance
 
 
