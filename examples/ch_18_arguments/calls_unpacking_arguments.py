@@ -1,3 +1,5 @@
+# usage: python3 calls_unpacking_arguments.py
+
 # function outputs its arguments
 def func(a, b, c, d):
     print(a, b, c, d)
@@ -5,6 +7,7 @@ def func(a, b, c, d):
 
 if __name__ == '__main__':
     print('code snippets from page 556\n')
+
     args = (1, 2)
     args += (3, 4)
     print(args)  # (1,2,3,4)

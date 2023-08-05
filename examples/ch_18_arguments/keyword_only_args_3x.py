@@ -1,3 +1,5 @@
+# usage: python3 keyword_only_args_3x.py
+
 # NOTE: a keyword-only argument is an argument that must be specified by
 # keyword and cannot be filled by another positional argument. keyword-only
 # arguments must be specified after a *argument and/or before a **argument
@@ -31,6 +33,7 @@ def kwonly5(a, *, b=1, c, d=2):  # c must be specified by the caller
 
 if __name__ == '__main__':
     print('code snippets from pages 559-561\n')
+
     kwonly1(1, 2, c=3)  # 1 (2,) c=3
     kwonly1(1, *(2,), c=3)  # 1 (2,) 3... same as ^^
     kwonly1(1, 2, 3, c=4)  # 1 (2,3) 4... arguments before c collected into *b

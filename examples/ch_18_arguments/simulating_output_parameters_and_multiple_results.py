@@ -1,3 +1,5 @@
+# usage: python3 simulating_output_parameters_and_multiple_results.py
+
 # function returns a x and y as a tuple
 def multiple(x, y):
     x = 2  # update local copy of a
@@ -7,6 +9,7 @@ def multiple(x, y):
 
 if __name__ == '__main__':
     print('code snippets from page 548\n')
+
     X = 1
     L = [1, 2]
     D = {'a': 1}
@@ -22,12 +25,12 @@ if __name__ == '__main__':
     print(L)  # [3,4]
     print('')
 
-    X, D = multiple(X, D)  # assignment overwrites previous values of X and D 
+    X, D = multiple(X, D)  # assignment overwrites previous values of X and D
     print(X)  # 2
     print(D)  # [3,4]
     print('')
 
-    X, T = multiple(X, T)  # assignment overwrites previous values of X and T  
+    X, T = multiple(X, T)  # assignment overwrites previous values of X and T
     print(X)
     print(T)
     print('')
@@ -36,7 +39,7 @@ if __name__ == '__main__':
     print(Y)  # 2
     print('')
 
-    X, Y = multiple(X, Y)  # assignment overwrites previous values of X and Y   
+    X, Y = multiple(X, Y)  # assignment overwrites previous values of X and Y
 
     print(X)  # 2
     print(Y)  # [3,4]

@@ -1,3 +1,5 @@
+# usage: python3 keyword_and_default_examples.py
+
 # function outputs its arguments... calls must receive 3 arguments
 def f1(a, b, c):
     print(a, b, c)
@@ -15,6 +17,7 @@ def func(spam, eggs, toast=0, ham=0):
 
 if __name__ == '__main__':
     print('code snippets from pages 552-554\n')
+
     # pass a, b, and c by position
     f1(1, 2, 3)
 

@@ -1,9 +1,12 @@
-# NOTE: the program can be run with python 2.X or 3.X
+# usage: python(2/3) emulating_python3x_print_function.py
+
+# NOTE: program can be run with python 2.X or 3.X
 import sys
 from print3 import print3
 
 if __name__ == '__main__':
     print('code snippets from pages 568-569\n')
+
     print3(1, 2, 3)  # 1 2 3
     print3(1, 2, 3, sep='')  # 123
     print3(1, 2, 3, sep='...')  # 1...2...3

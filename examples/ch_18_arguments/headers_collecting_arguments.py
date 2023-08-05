@@ -1,3 +1,5 @@
+# usage: python3 headers_collecting_arguments.py
+
 # NOTE: positional arguments cannot follow keyword arguments!!!
 
 def ft(*args):
@@ -20,6 +22,7 @@ def ftd(a, *pargs, **kargs):
 
 if __name__ == '__main__':
     print('code snippets from page 555\n')
+
     # NOTE: if no argument is passed to a function that defines a * parameter,
     # the call instantiates an empty tuple in its place
     ft()  # ()

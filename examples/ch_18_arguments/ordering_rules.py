@@ -1,3 +1,5 @@
+# usage: python3 ordering_rules.py
+
 # NOTE: if a function includes a ** parameter, it must be defined last in the
 # header, and when that function is called, the argument provided to a **
 # paramter must be provided last... or not at all
@@ -22,6 +24,7 @@ def f2(a, b=6, *c, **d):
 
 if __name__ == '__main__':
     print('code snippets from pages 561-562\n')
+
     f1(1, 2, 3, x=4, y=5)  # 1 (2,3) 6 {'x':4,'y':5}... uses default for c
 
     # NOTE: **dict(k=v,...) or **{'k':v,...} can be used to provide keyword

@@ -1,3 +1,5 @@
+# usage: python3 generalized_set_functions.py
+
 from inter2 import intersect
 from inter2 import union
 
@@ -12,6 +14,7 @@ def tester(func, items, trace=True):
 
 if __name__ == '__main__':
     print('code snippets from pages 566-567\n')
+
     s1, s2, s3 = "SPAM", "SCAM", "SLAM"
     print(intersect(s1, s2))  # ['S','A','M']
     print(union(s1, s2))  # ['S,'P','A','M','C']

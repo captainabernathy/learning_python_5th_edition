@@ -1,3 +1,5 @@
+# usage: python3 avoiding_mutable_argument_changes.py
+
 def changer(a, b):
     # since a does not receive a mutable type, this change is local to
     # this function
@@ -8,6 +10,7 @@ def changer(a, b):
 
 if __name__ == '__main__':
     print('code snippets from page 547\n')
+
     X = 1
     L = [1, 2]
     D = {'a': 1}
