@@ -1,7 +1,10 @@
+# usage: python3 namespace_dictionaries.py
+
 import module2
 
 if __name__ == '__main__':
     print('code snippets from pages 720-721\n')
+
     # NOTE: we can access a module's namespace dictionary through its __dict__
     # attribute
     print(list(module2.__dict__.keys()))

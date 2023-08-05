@@ -1,3 +1,5 @@
+# usage: python3 import_and_from_are_assignments_01.py
+
 # NOTE: an import statement assigns an entire module object to a single name
 import small
 
@@ -9,6 +11,7 @@ from small import y
 
 if __name__ == '__main__':
     print('code snippets from pages 715-716\n')
+
     print(x)  # 1... small's x
     print(y)  # [1,2]... small's y
     print('')
