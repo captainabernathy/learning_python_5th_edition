@@ -1,5 +1,8 @@
+# usage: python3 strings_in_action.py
+
 if __name__ == '__main__':
     print('code snippets from pages 206-215\n')
+
     # basic operations
     print(len('abc'))  # 3
     print('abc' + 'def')  # abcdef... concatenation

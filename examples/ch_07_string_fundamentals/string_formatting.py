@@ -1,7 +1,10 @@
+# usage: python3 string_formatting.py
+
 import sys
 
 if __name__ == '__main__':
     print('code snippets from pages 225-243\n')
+
     # string formatting expressions
     print('That is %d %s bird!' % (1, 'dead'))
 

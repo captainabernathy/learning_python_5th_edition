@@ -1,5 +1,7 @@
+# usage: python3 string_literals.py
 if __name__ == '__main__':
     print('code snippets from pages 199-205\n')
+
     # string literals can be contained in single or double quotes
     print('shrubbery', "shrubbery")  # shrubbery, shrubbery
     print('')

@@ -1,5 +1,8 @@
+# usage: python3 string_methods.py
+
 if __name__ == '__main__':
     print('code snippets from pages 218-222\n')
+
     S = 'spammy'
     print(S)  # spammy
     S = S[:3] + 'xx' + S[5:]  # slice sections from S

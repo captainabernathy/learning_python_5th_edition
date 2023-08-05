@@ -1,6 +1,6 @@
 ## Chapter 7 - String Fundamentals
 
-## Programs
+### Source Code Directory
 
 ### String Literals
 * string\_literals.py
