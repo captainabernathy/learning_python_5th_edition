@@ -1,3 +1,5 @@
+# usage: python3 scopes_lambdas_can_be_nested_too.py
+
 # function that returns a lambda function that returns the sum of the argument
 # passed to it and the argument passed to the lambda
 def action(x):
@@ -6,6 +8,7 @@ def action(x):
 
 if __name__ == '__main__':
     print('code snippets from page 595\n')
+
     act = action(99)
     print(act(2))  # 101
 

@@ -1,5 +1,8 @@
+# usage: python3 selecting_items_in_iterables_via_filter.py
+
 if __name__ == '__main__':
     print('code snippets from page 599\n')
+
     print(list(range(-5, 5)))  # [-5,-4,-3,-2,-1,0,1,2,3,4]
     print('')
 

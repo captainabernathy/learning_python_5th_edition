@@ -1,3 +1,5 @@
+# usage: python3 summation_with_recursion.py
+
 # function recursively computes the sum of a list of numbers and returns the
 # result
 def mysum1(L):
@@ -38,6 +40,7 @@ def nonempty(L):
 
 if __name__ == '__main__':
     print('code snippets from pages 578-580\n')
+
     print(mysum1([1, 2, 3, 4, 5]))  # 15
     print(mysum2([1, 2, 3, 4, 5]))  # 15
     print(mysum3([1, 2, 3, 4, 5]))  # 15

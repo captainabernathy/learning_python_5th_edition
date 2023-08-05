@@ -1,3 +1,5 @@
+# usage: python3 function_annotations_in_3x.py
+
 def func1(a, b, c):
     return a + b + c
 
@@ -28,6 +30,7 @@ def func5(a: 'spam' = 4, b: (1, 10) = 5, c: float = 6) -> int:
 
 if __name__ == '__main__':
     print('code snippets from pages 588-589\n')
+
     print(func1(1, 2, 3))  # 6
     print('')
 

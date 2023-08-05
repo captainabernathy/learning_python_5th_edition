@@ -1,3 +1,5 @@
+# usage: python3 function_introspection_and_attributes.py
+
 def func(a):
     b = 'spam'
     return b * a
@@ -9,6 +11,7 @@ def f():
 
 if __name__ == '__main__':
     print('code snippets from pages 586-587\n')
+
     print(func(8))  # spam 8 times
     print('')
     print(func.__name__)  # func... __name__ attribute

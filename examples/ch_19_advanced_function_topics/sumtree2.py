@@ -1,3 +1,5 @@
+# usage: python3 sumtree2.py
+
 trace = (lambda x: None)  # or print()
 visit = (lambda x: print(x, end=', '))
 
@@ -56,6 +58,7 @@ def bfl_sumtree(L):
 
 if __name__ == '__main__':
     print('code snippets from pages 578-580\n')
+
     L = [1, [2, [3, 4], 5], 6, [7, 8]]
     s = bf_sumtree(L)  # 1, 6, 2, 5, 7, 8, 3, 4
     print('')

@@ -1,3 +1,5 @@
+# usage: python3 why_use_lambda.py
+
 # function returns the square of its argument
 def f1(x):
     return x ** 2
@@ -15,6 +17,7 @@ def f3(x):
 
 if __name__ == '__main__':
     print('code snippets from page 592\n')
+
     L = [lambda x: x ** 2,  # same as f1()
          lambda x: x ** 3,  # same as f2()
          lambda x: x ** 4]  # same as f3()

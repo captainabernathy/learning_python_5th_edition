@@ -1,7 +1,10 @@
+# usage: python3 how_not_to_obfuscate_your_python_code.py
+
 import sys
 
 if __name__ == '__main__':
     print('code snippets from page 594\n')
+
     # NOTE: the body of a lambda function must be a single expression... NOT a
     # series of statements
     lower = (lambda x, y: x if x < y else y)

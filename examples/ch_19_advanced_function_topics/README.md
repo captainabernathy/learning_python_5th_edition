@@ -4,14 +4,8 @@
 
 ### Recursive Functions
 * summation\_with\_recursion.py
-
-### Handling Arbitrary Structures
 * sumtree.py
-
-#### Recursion Versus Queues and Stacks
 * sumtree2.py
-
-#### Cycles, Paths, and Stack Limits
 * cycles\_paths\_and\_stack\_limits.py
 
 ### Function Objects: Attributes and Annotations

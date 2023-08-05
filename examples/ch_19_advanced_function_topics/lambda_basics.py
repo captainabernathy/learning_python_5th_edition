@@ -1,3 +1,5 @@
+# usage: python3 lambda_basics.py
+
 # simple function that returns the sum of its arguments
 def func(x, y, z):
     return x + y + z
@@ -14,6 +16,7 @@ def knights():
 
 if __name__ == '__main__':
     print('code snippets from page 591\n')
+
     print(func(2, 3, 4))  # 9
     print('')
 

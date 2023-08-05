@@ -1,3 +1,5 @@
+# usage: python3 sumtree.py
+
 # function recursively computes the sum of an arbitrarily nested list of
 # numbers and returns the results
 def sumtree(L):
@@ -12,6 +14,7 @@ def sumtree(L):
 
 if __name__ == '__main__':
     print('code snippets from page 581\n')
+
     L = [1, [2, [3, 4], 5], 6, [7, 8]]  # arbitrarily nested list
     print(sumtree(L))  # 36
 

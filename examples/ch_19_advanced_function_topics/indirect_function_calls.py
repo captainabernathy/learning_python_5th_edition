@@ -1,3 +1,5 @@
+# usage: python3 indirect_function_calls.py
+
 # simple function that prints the message it receives
 def echo(msg):  # name echo assigned to function object
     print(msg)
@@ -19,6 +21,7 @@ def make(label):  # make a function, but don't call it
 
 if __name__ == '__main__':
     print('code snippets from page 585\n')
+
     echo('Direct call')  # Direct call
     x = echo
     x('Indirect call')  # Indirect call

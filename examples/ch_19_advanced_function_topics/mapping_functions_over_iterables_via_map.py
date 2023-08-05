@@ -1,3 +1,5 @@
+# usage: python3 mapping_functions_over_iterables_via_map.py
+
 # function returns the sum of its argument and 10
 def inc(x):
     return x + 10
@@ -14,6 +16,7 @@ def mymap(func, seq):
 
 if __name__ == '__main__':
     print('code snippets from pages 597-598\n')
+
     counters = [1, 2, 3, 4]
     print(counters)  # [1,2,3,4]
     print('')

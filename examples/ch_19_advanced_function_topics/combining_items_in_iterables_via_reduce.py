@@ -1,3 +1,5 @@
+# usage: python3 combining_items_in_iterables_via_reduce.py
+
 from functools import reduce
 import operator
 
@@ -13,6 +15,7 @@ def myreduce(func, seq):
 
 if __name__ == '__main__':
     print('code snippets from pages 599-600\n')
+
     print(reduce((lambda x, y: x + y), [1, 2, 3, 4]))  # 10
     print('')
 

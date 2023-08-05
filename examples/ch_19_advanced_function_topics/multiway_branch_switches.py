@@ -1,3 +1,5 @@
+# usage: python3 multiway_branch_switches.py
+
 # function returns 4... 2 + 2
 def f1():
     return 2 + 2
@@ -15,6 +17,7 @@ def f3():
 
 if __name__ == '__main__':
     print('code snippets from pages 592-593\n')
+
     key = 'got'
     # a dictionary of lambda functions equivalent to f1(), f2(), f3()
     x = {'already': (lambda: 2 + 2),
