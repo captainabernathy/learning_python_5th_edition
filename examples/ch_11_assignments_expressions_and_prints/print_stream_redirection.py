@@ -1,7 +1,10 @@
+# usage: python3 print_stream_redirection.py
+
 import sys
 
 if __name__ == '__main__':
     print('code snippets from pages 376-378\n')
+
     # write hello world to stdout with print() function
     print('hello world')
 
@@ -54,11 +57,11 @@ if __name__ == '__main__':
     print('')
     
     # NOTE: open() returns a file object
-    print(X, Y, file=open('temp1', 'w'))  # redirect text to a file
+    print(X, Y, file=open('temp1.txt', 'w'))  # redirect text to a file
     
     # manual output redirection to a file
     open('temp2', 'w').write(str(X) + ' ' + str(Y) + '\n')
     
     # read and output the contents of two previously written files
-    print(open('temp1', 'rb').read())
-    print(open('temp2', 'rb').read())
+    print(open('temp1.txt', 'rb').read())
+    print(open('temp2.txt', 'rb').read())

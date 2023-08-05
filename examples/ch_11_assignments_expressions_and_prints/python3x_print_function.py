@@ -1,5 +1,8 @@
+# usage: python3 python3x_print_function.py
+
 if __name__ == '__main__':
     print('code snippets from pages 371-373\n')
+
     x = 'spam'
     y = 99
     z = ['eggs']

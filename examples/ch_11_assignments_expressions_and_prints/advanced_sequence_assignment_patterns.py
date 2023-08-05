@@ -1,5 +1,8 @@
+# usage: python3 advanced_sequence_assignment_patterns.py
+
 if __name__ == '__main__':
     print('code snippets from pages 353-354\n')
+
     string = 'SPAM'
     print(string)  # SPAM
 

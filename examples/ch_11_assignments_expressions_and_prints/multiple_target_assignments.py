@@ -1,5 +1,8 @@
+# usage: python3 multiple_target_assignments.py
+
 if __name__ == '__main__':
     print('code snippets from pages 359-360\n')
+
     a = b = c = 'spam'
     print(a, b, c)  # spam spam spam
 

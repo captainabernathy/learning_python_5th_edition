@@ -1,5 +1,8 @@
+# usage: python3 sequence_assignments.py
+
 if __name__ == '__main__':
     print('code snippets from pages 351-352\n')
+
     nudge = 1
     wink = 2
     print(nudge, wink)  # 1 2

@@ -1,5 +1,8 @@
+# usage: python3 extended_sequence_unpacking.py
+
 if __name__ == '__main__':
     print('code snippets from pages 355-358\n')
+
     seq = [1, 2, 3, 4]
     print(seq)  # [1,2,3,4]
 

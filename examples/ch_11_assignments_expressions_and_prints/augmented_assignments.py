@@ -1,5 +1,8 @@
+# usage: python3 augmented_assignments.py
+
 if __name__ == '__main__':
     print('code snippets from pages 360-363\n')
+
     X = 1
     print(X)  # 1
 
