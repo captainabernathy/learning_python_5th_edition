@@ -1,3 +1,5 @@
+# usage: python3 catching_exception.py
+
 from fetcher import fetcher
 
 
@@ -11,6 +13,7 @@ def catcher(x):
 
 if __name__ == '__main__':
     print('code snippets from page 1123\n')
+
     x = 'spam'
     print(fetcher(x, 3))  # m
     print('')

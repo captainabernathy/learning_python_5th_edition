@@ -1,3 +1,5 @@
+# usage: python3 user_defined_exceptions.py
+
 # user-defined exceptions are coded with classes that inherit from a built-in
 # exception class (usually Exception)
 class AlreadyGotOne(Exception):
@@ -17,6 +19,7 @@ class Career(Exception):
 
 if __name__ == '__main__':
     print('code snippets from page 1125\n')
+
     try:
         grail()  # raises AlreadyGotOne
     except AlreadyGotOne:

@@ -1,3 +1,5 @@
+# usage: python3 termination_actions.py
+
 from fetcher import fetcher
 
 
@@ -13,6 +15,7 @@ def after(x):
 
 if __name__ == '__main__':
     print('code snippets from pages 1125-1126\n')
+
     x = 'spam'
     try:
         print(fetcher(x, 3))  # m

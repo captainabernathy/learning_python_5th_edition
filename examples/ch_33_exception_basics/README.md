@@ -1,6 +1,6 @@
 ## Chapter 33 - Exception Basics
 
-## Programs
+### Source Code Directory
 
 ### Exceptions: The Short Story
 * fetcher.py
