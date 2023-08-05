@@ -1,6 +1,6 @@
 ## Chapter 28 - A More Realistic Example
 
-## Programs
+### Source Code Directory
 
 ### Step 1: Making Instances
 * making\_instances.py

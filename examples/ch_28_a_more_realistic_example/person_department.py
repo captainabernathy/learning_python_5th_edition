@@ -1,3 +1,5 @@
+# usage: python3 person_department.py
+
 class Person:
     def __init__(self, name, job=None, pay=0):
         self.name = name
@@ -44,6 +46,7 @@ class Department:
 
 if __name__ == '__main__':
     print('code snippets from pages 866-867\n')
+
     bob = Person('Bob Smith')
     sue = Person('Sue Jones', job='dev', pay=100000)
     tom = Manager('Tom Jones', 50000)

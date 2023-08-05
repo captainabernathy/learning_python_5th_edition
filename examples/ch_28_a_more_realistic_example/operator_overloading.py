@@ -1,3 +1,5 @@
+# usage: python3 operator_overloading.py
+
 class Person:
     def __init__(self, name, job=None, pay=0):
         self.name = name
@@ -18,6 +20,7 @@ class Person:
 
 if __name__ == '__main__':
     print('code snippets from page 855\n')
+
     bob = Person('Bob Smith')
     sue = Person('Sue Jones', job='dev', pay=100000)
 

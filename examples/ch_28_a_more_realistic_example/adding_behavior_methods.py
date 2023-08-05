@@ -1,3 +1,5 @@
+# usage: python3 adding_behavior_methods.py
+
 class Person:
 
     def __init__(self, name, job=None, pay=0):
@@ -14,6 +16,7 @@ class Person:
 
 if __name__ == '__main__':
     print('code snippets from pages 851-853\n')
+
     bob = Person('Bob Smith')
     sue = Person('Sue Jones', job='dev', pay=100000)
 

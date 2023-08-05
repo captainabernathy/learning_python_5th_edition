@@ -1,3 +1,5 @@
+# usage: python3 person_composite.py
+
 class Person:
     def __init__(self, name, job=None, pay=0):
         self.name = name
@@ -34,6 +36,7 @@ class Manager:
 
 if __name__ == '__main__':
     print('code snippets from pages 865-866\n')
+
     bob = Person('Bob Smith')
     sue = Person('Sue Jones', job='dev', pay=100000)
 

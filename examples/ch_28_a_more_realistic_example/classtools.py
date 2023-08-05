@@ -1,3 +1,5 @@
+# usage: python3 classtools.py
+
 '''Assorted class utilities and tools'''
 
 

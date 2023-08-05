@@ -1,7 +1,10 @@
+# usage: python3 updatedb.py
+
 import shelve
 
 if __name__ == '__main__':
     print('code snippet from page 881\n')
+
     db = shelve.open('persondb')  # open shelve
 
     # output data in shelve

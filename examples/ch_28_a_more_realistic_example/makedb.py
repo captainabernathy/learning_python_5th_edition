@@ -1,3 +1,5 @@
+# usage: python3 makedb.py
+
 # program stores a Person object on a shelve database
 # NOTE: the shelve module allows you to store pickled objects by key
 import shelve
@@ -6,6 +8,7 @@ from person import Manager
 
 if __name__ == '__main__':
     print('code snippet from page 877\n')
+
     bob = Person('Bob Smith')
     sue = Person('Sue Jones', job='dev', pay=100000)
     tom = Manager('Tom Jones', 50000)

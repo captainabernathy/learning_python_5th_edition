@@ -1,3 +1,5 @@
+# usage: python3 person.py
+
 from classtools import AttrDisplay
 
 
@@ -24,6 +26,7 @@ class Manager(Person):
 
 if __name__ == '__main__':
     print('code snippets from page 863\n')
+
     bob = Person('Bob Smith')
     sue = Person('Sue Jones', job='dev', pay=100000)
 

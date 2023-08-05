@@ -1,3 +1,5 @@
+# usage: python3 customizing_behavior_by_subclassing.py
+
 class Person:
     def __init__(self, name, job=None, pay=0):
         self.name = name
@@ -21,6 +23,7 @@ class Manager(Person):
 
 if __name__ == '__main__':
     print('code snippets from page 859\n')
+
     bob = Person('Bob Smith')
     sue = Person('Sue Jones', job='dev', pay=100000)
 
