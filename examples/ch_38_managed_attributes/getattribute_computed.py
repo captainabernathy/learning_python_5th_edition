@@ -1,3 +1,5 @@
+# usage: python3 getattribute_computed.py
+
 class AttrSquare(object):
     # construct builds an AttrSquare with its value attribute initialized to
     # start
@@ -14,7 +16,7 @@ class AttrSquare(object):
         '''
         if attr == 'X':
             # return self.value ** 2  # triggers __getattribute__ again!
-            # more efficiently... 
+            # more efficiently...
             return object.__getattribute__(self, 'value') ** 2
         else:
             return object.__getattribute__(self, attr)  # avoid looping

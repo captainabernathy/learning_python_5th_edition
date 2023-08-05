@@ -1,3 +1,5 @@
+# usage: python3 getattr_computed.py
+
 class AttrSquare:
     # constructor builds an AttrSquare with its value attribute initialized to
     # start

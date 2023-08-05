@@ -1,3 +1,5 @@
+# usage: python3 getattribute1.py
+
 class Catcher(object):  # object needed in 2.X
     # NOTE: __getattribute__() run for all attribute lookups
     def __getattribute__(self, name):

@@ -1,3 +1,5 @@
+# usage: python3 desc_person.py
+
 class Name:  # use (object) in 2.X
     '''
     name descriptor docs

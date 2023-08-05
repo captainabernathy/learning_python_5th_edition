@@ -1,3 +1,5 @@
+# usage: python3 desc_powers.py
+
 class DescSquare(object):
     # returns the square of instance's _square attribute
     def __get__(self, instance, owner):

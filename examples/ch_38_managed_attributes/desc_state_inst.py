@@ -1,3 +1,5 @@
+# usage: python3 desc_state_inst.py
+
 # NOTE: this descriptor class manages data on a client instance instead of
 # itself, which allows for data that can vary per client class instance
 

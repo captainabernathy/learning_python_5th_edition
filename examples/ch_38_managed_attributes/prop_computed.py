@@ -1,3 +1,5 @@
+# usage: python3 prop_computed.py
+
 class PropSquare:
     # constructor builds a PropSquare object with its value attribute
     # initialized to start

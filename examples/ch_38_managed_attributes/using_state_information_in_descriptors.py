@@ -1,3 +1,5 @@
+# usage: python3 using_state_information_in_descriptors.py
+
 # NOTE: this Descriptor class manages data both instances of itself and on
 # client instances
 

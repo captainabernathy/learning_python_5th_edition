@@ -1,3 +1,5 @@
+# usage: python3 desc_person_nested.py
+
 class Person:
     # constructor builds a Person with its _name attribute initialized to name
     def __init__(self, name):

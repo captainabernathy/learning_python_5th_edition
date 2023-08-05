@@ -1,3 +1,5 @@
+# usage: python3 getattr_vs_getattribute.py
+
 class GetAttr:
     attr1 = 1  # initializes class-level attribute to 1
 

@@ -1,3 +1,5 @@
+# usage: python3 getattribute_delegate.py
+
 # NOTE: delegation-based classes must redefine some operator overloading
 # methods (ie: __repr__, __str__) to route them to embedded objects in 3X, but
 # NOT in 2X (unless new-style classes are used)

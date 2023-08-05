@@ -1,3 +1,5 @@
+# usage: python3 getattribute_powers.py
+
 class Powers(object):
     # constructor builds a Powers with its _square and _cube attributes
     # initialized to square and cube respectively

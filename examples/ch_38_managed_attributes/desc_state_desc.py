@@ -1,3 +1,5 @@
+# usage: python3 desc_state_desc.py
+
 # NOTE: this descriptor class attaches information to its own instance so that
 # it doesn clash with information on a client instance... BUT the descriptor's
 # information is shared amongst its clients

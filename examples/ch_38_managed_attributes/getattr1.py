@@ -1,3 +1,5 @@
+# usage: python3 getattr1.py
+
 class Catcher:
     # NOTE: __getattr__() is run for undefined attribute lookups bc it is only
     # run for attributes not stored on an instance or inherited from one of its

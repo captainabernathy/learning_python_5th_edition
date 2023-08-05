@@ -1,3 +1,5 @@
+# usage: python3 prop_person.py
+
 class Person1:
     # constructor builds a Person1 object with it's _name attribute initialized
     # to name

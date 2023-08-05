@@ -1,6 +1,6 @@
 ## Chapter 38 - Managed Attributes
 
-## Programs
+### Source Code Directory
 
 ### Properties
 * prop\_person.py 

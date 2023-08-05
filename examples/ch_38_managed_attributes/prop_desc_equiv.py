@@ -1,3 +1,5 @@
+# usage: pyton3 prop_desc_equiv.py
+
 class Property:
     '''
     Descriptor that simulates the property built-in

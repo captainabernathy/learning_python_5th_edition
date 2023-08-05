@@ -1,3 +1,5 @@
+# usage: python3 getattribute_person.py
+
 class Person:
     # constructor builds a Person with its _name attribute initialized to name
     def __init__(self, name):  # portable on 2.X or 3.X

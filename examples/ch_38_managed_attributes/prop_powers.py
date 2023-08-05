@@ -1,3 +1,5 @@
+# usage: python3 prop_powers.py
+
 class Powers(object):  # for 2.X compatibility
     '''
     manages 2 dynamically computed attributes with properties

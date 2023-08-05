@@ -1,4 +1,4 @@
-# usage: python3 validate_tester.py module_name
+# usage: python(2/3) validate_tester.py module_name
 
 from __future__ import print_function
 

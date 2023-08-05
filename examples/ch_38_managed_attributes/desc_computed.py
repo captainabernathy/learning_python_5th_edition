@@ -1,3 +1,5 @@
+# usage: python3 desc_computed.py
+
 class DescSquare:
     # constructor builds a DescSquare with its value attribute initialized to
     # start

@@ -1,3 +1,5 @@
+# usage: python3 descriptors_the_basics.py
+
 # NOTE: the __delete__() method is called on attempts to delete a managed
 # attribute (similar to __delattr__), while the __del__() method is the
 # general instance destructor method, which is run when an instance of any kind

@@ -1,3 +1,5 @@
+# usage: python3 getattr_builtins.py
+
 # tests various attribute types and built-in operations on instances of classes
 # containing __getattr__() and __getattribute__() methods
 

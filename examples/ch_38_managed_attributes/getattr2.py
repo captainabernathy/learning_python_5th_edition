@@ -1,3 +1,5 @@
+# usage: python3 getattr2.py
+
 class Wrapper:
     # constructor builds a Wrapper with its wrapped attribute initialized to
     # object

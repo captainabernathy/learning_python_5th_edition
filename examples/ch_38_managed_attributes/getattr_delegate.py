@@ -1,3 +1,5 @@
+# usage: python3 getattr_delegate.py
+
 # NOTE: delegation-based classes must redefine some operator overloading
 # methods (ie: __repr__, __str__) to route them to embedded objects in 3.X, but
 # NOT in 2.X (unless new-style classes are used)
