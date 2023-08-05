@@ -1,3 +1,5 @@
+# usage: python3 extended_list_comprehension_syntax.py
+
 if __name__ == '__main__':
     print('code snippets from pages 444-445\n')
 

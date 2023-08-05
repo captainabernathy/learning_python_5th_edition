@@ -1,6 +1,10 @@
+# usage: python3 full_iteration_protocol.py
+
 if __name__ == '__main__':
     print('code snippets from pages 433-434\n')
+
     L = [1, 2, 3]
+
     # NOTE: the iter() function returns an iterator object from an iterable
     It = iter(L)
     print(It.__next__())  # 1

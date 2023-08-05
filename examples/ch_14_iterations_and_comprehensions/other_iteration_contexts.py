@@ -1,3 +1,5 @@
+# usage: python3 other_iteration_contexts.py
+
 import functools
 import operator
 
@@ -9,6 +11,7 @@ def f(a, b, c, d):
 
 if __name__ == '__main__':
     print('code snippets from pages 446-450\n')
+
     # convert each line in a file to uppercase
     for line in open('script2.py'):  # file iterators
         print(line.upper(), end='')

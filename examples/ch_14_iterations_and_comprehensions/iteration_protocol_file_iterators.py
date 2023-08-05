@@ -1,3 +1,5 @@
+# usage: python3 iteration_protocol_file_iterators.py
+
 if __name__ == '__main__':
     print('code snippets from pages 433-434\n')
 
@@ -6,6 +8,7 @@ if __name__ == '__main__':
 
     # NOTE: open returns a file object
     f = open('script2.py')
+
     # a file object's readline() method reads a single line from a file
     # NOTE: readline() returns an empty string at EOF
     print(f.readline(), end='')

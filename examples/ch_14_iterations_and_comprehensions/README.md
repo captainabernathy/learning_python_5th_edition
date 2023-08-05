@@ -1,6 +1,6 @@
 ## Chapter 14 - Iterations and Comprehensions
 
-## Programs
+### Source Code Directory
 
 ### Iterations: A First Look
 * iterations\_a\_first\_look.py
@@ -29,3 +29,5 @@
 * multiple\_vs\_single\_pass\_iterators.py
 * dictionary\_view\_iterables.py 
 
+#### Resource Files
+* script.py

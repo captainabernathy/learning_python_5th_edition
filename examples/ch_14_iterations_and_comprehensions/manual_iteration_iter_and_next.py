@@ -1,5 +1,8 @@
+# usage: python3 manual_iteration_iter_and_next.py
+
 if __name__ == '__main__':
     print('code snippets from page 435\n')
+
     myfile = 'script2.py'
     f = open(myfile)
 

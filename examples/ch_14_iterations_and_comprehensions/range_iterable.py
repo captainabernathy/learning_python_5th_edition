@@ -1,5 +1,8 @@
+# usage: python3 range_iterable.py
+
 if __name__ == '__main__':
     print('code snippets from pages 452-453\n')
+
     R = range(10)  # build a range object
     print(R)  # range(0,10)
 

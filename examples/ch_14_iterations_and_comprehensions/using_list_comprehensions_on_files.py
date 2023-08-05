@@ -1,6 +1,10 @@
+# usage: python3 using_list_comprehensions_on_files.py
+
 if __name__ == '__main__':
     print('code snippets from pages 442-443\n')
+
     f = open('script2.py')
+
     # NOTE: a file object's readlines() method loads a file into a list of
     # strings all at once
     lines = f.readlines()

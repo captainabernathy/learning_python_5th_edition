@@ -1,3 +1,5 @@
+# usage: python3 new_iterables_in_python_3x.py
+
 if __name__ == '__main__':
     print('code snippets from pages 451-452\n')
 

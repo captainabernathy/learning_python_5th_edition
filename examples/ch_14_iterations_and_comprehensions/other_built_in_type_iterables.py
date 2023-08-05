@@ -1,8 +1,12 @@
+# usage: python3 other_built_in_type_iterables.py
+
 import os
 
 if __name__ == '__main__':
     print('code snippets from pages 438-440\n')
+
     D = {'a': 1, 'b': 2, 'c': 3}
+
     # NOTE: a dictionary object's keys() method returns an interable
     for key in D.keys():
         print(key, D[key])

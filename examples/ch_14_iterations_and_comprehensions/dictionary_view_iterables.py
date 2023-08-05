@@ -1,5 +1,8 @@
+# usage: python3 dictionary_view_iterables.py
+
 if __name__ == '__main__':
     print('code snippets from page 456-457\n')
+
     D = dict(a=1, b=2, c=3)
     print(D)
     print('')

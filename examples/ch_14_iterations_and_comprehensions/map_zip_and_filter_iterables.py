@@ -1,5 +1,8 @@
+# usage: python3 map_zip_and_filter_iterables.py
+
 if __name__ == '__main__':
     print('code snippets from pages 453-454\n')
+
     # NOTE: the map(), zip(), and filter() constructors return an iterable
     # object that is itself its own iterator... additionally, these objects
     # can only be iterated over once
