@@ -1,3 +1,5 @@
+# usage: python3 specialize.py
+
 class Super:
     def method(self):
         print('in Super.method()')
@@ -30,6 +32,7 @@ class Provider(Super):  # provide's delegate()-ed method... action()
 
 if __name__ == '__main__':
     print('code snippets from pages 896-897\n')
+
     # instances are constructed automatically in for loop
     for klass in (Inheritor, Replacer, Extender):
         print('\n' + klass.__name__ + '...')

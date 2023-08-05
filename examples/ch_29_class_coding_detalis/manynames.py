@@ -1,3 +1,5 @@
+# usage: python3 manynames.py
+
 X = 11  # global (module) name/attribute
 
 
@@ -20,6 +22,7 @@ class C:
 
 if __name__ == '__main__':
     print('code snippets from page 902\n')
+
     print(X)  # 11
     f()   # 11
     g()  # 22

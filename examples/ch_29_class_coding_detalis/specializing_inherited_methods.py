@@ -1,3 +1,5 @@
+# usage: python3 specializing_inherited_methods.py
+
 class Super:
     def method(self):
         print('in Super.method()')
@@ -13,6 +15,7 @@ class Sub(Super):
 
 if __name__ == '__main__':
     print('code snippets from pages 895-896\n')
+
     x = Super()  # build a Super instance
     x.method()  # in Super.method()
     print('')

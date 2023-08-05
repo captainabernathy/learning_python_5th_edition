@@ -1,3 +1,5 @@
+# usage: python3 documentation_strings_revisited.py
+
 import docstr
 
 if __name__ == '__main__':

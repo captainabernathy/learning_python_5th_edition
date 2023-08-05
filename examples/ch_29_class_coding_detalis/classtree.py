@@ -1,3 +1,5 @@
+# usage: python3 classtree.py
+
 '''
 module provides functions that climb inheritance trees using namespace links
 displaying higher superclasses with indentation for height
@@ -40,4 +42,5 @@ def selftest():
 
 if __name__ == '__main__':
     print('code snippets from page 909\n')
+
     selftest()

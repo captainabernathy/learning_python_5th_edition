@@ -1,3 +1,5 @@
+# usage: python3 zen_of_namespaces.py
+
 X = 11  # module global
 
 
@@ -30,6 +32,7 @@ def h2():
 
 if __name__ == '__main__':
     print('code snippets from pages 903-904\n')
+
     g1()  # 11... global X
     g2()  # changes global X
     g1()  # 22... reflects change made by g2()

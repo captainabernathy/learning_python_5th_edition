@@ -1,3 +1,5 @@
+# usage: python3 namespace_dictionaries_reiview.py
+
 class Super:
     def hello(self):
         self.data1 = 'spam'
@@ -9,7 +11,8 @@ class Sub(Super):
 
 
 if __name__ == '__main__':
-    print('code snippets from pages 907=908\n')
+    print('code snippets from pages 907-908\n')
+
     X = Sub()
     print(X.__dict__)  # {}... empty dictionary
 

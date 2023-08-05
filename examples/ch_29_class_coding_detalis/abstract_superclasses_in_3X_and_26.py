@@ -1,3 +1,5 @@
+# usage: python3 abstract_superclasses_in_3X_and_26.py
+
 from abc import ABCMeta
 from abc import abstractmethod
 
@@ -23,6 +25,7 @@ class Sub(Super):
 
 if __name__ == '__main__':
     print('code snippets from pages 899-900\n')
+
     try:
         X = Super()
     except TypeError as err:

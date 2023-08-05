@@ -1,3 +1,5 @@
+# usage: python3 abstract_superclasses.py
+
 class Super:
     def delegate(self):
         self.action()
@@ -13,7 +15,9 @@ class Sub(Super):
 
 if __name__ == '__main__':
     print('code snippets from pages 898-899\n')
+
     X = Super()  # build a Super instance
+
     try:
         X.delegate()
     except AssertionError as err:

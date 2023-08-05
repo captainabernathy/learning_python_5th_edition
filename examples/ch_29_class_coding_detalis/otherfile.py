@@ -1,7 +1,10 @@
+# usage: python3 otherfile.py
+
 import manynames
 
 if __name__ == '__main__':
     print('code snippets from page 903\n')
+
     X = 66
     print(X)  # 66... __main__' X
     print(manynames.X)   # 11... globals become attributes after imports

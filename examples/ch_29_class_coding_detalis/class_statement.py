@@ -1,3 +1,5 @@
+# usage: python3 class_statement.py
+
 class SharedData:
     spam = 42  # generates a class data attribute
 
@@ -14,6 +16,7 @@ class MixedNames:
 
 if __name__ == '__main__':
     print('code snippets from pages 889-890\n')
+
     x = SharedData()
     y = SharedData()
     print(x.spam, y.spam)  # 42 42... both share spam

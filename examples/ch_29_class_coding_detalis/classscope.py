@@ -1,3 +1,5 @@
+# usage: python3 classscope.py
+
 X = 1
 
 
@@ -69,6 +71,7 @@ def nester3():
 
 if __name__ == '__main__':
     print('code snippets from pages 905-906\n')
+
     print(X)  # 1
     nester1()  # 1 1 1 3
     print('-' * 40)

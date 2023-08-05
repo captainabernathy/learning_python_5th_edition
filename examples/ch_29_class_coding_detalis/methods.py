@@ -1,3 +1,5 @@
+# usage: python3 methods.py
+
 class NextClass:
     def printer(self, text):
         self.message = text  # update instance
@@ -6,6 +8,7 @@ class NextClass:
 
 if __name__ == '__main__':
     print('code snippets from pages 891-892\n')
+
     x = NextClass()  # make instance
 
     # NOTE: when an object calls a method, python automatically passes the
