@@ -9,15 +9,9 @@
 
 ### Special Argument Matching Modes
 * keyword\_and\_default\_examples.py
-
-#### Arbitrary Argument Examples
 * headers\_collecting\_arguments.py
 * calls\_unpacking\_arguments.py
-
-##### Applying Functions Generically
 * tracer0.py
-
-#### Python 3.X Keyword-Only Arguments
 * keyword\_only\_args\_3x.py
 * ordering\_rules.py 
 
