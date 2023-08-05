@@ -5,13 +5,9 @@
 ### Iterations: A First Look
 * iterations\_a\_first\_look.py
 * iteration\_protocol\_file\_iterators.py 
-
-#### Manual Iteration: iter and next
 * manual\_iteration\_iter\_and\_next.py
 * full\_iteration\_protocol.py 
 * manual\_iteration.py
-
-#### Other Built-in Type Iterables
 * other\_built\_in\_type\_iterables.py
 
 ### List Comprehensions: A First Detailed Look

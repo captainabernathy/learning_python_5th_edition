@@ -10,6 +10,4 @@
 
 ### The if/else Ternary Expression
 * if\_else\_ternary\_expression.py
-
-#### Why You Will Care: Booleans
 * why\_you\_will\_care\_booleans.py
