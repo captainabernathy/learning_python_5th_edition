@@ -1,3 +1,5 @@
+# usage: python3 runme_importer.py
+
 import runme
 
 if __name__ == '__main__':

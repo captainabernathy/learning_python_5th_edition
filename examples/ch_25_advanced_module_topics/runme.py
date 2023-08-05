@@ -1,3 +1,5 @@
+# usage: python3 runme.py
+
 def tester():
     print("It's Christmas in Heaven...")
 

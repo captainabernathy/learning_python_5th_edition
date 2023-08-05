@@ -1,3 +1,5 @@
+# usage: python3 minmax2.py
+
 print('I am:', __name__)
 
 

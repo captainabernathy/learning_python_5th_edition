@@ -1,3 +1,5 @@
+# usage: python3 mydir.py
+
 '''module lists the namespaces of other modules'''
 from __future__ import print_function  # for 2.X compatibility
 

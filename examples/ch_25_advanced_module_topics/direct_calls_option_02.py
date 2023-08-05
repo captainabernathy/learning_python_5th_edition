@@ -1,3 +1,5 @@
+# usage: python3 direct_calls_option_02.py
+
 import importlib
 modname = 'string'
 # NOTE: importlib.import_module() loads a module with the name of its argument
@@ -7,4 +9,5 @@ string = importlib.import_module(modname)
 
 if __name__ == "__main__":
     print('code snippets from page 787.\n')
+
     print(string)  # <module 'string' from '/path/to/string.py'>

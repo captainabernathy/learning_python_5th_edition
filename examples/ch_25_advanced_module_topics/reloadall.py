@@ -1,3 +1,5 @@
+# usage: python3 reloadall.py
+
 '''
 script transitively reloads nested modules (2.X + 3.X)
 '''
@@ -63,4 +65,5 @@ def tester(reloader, modname):
 
 if __name__ == '__main__':
     print('code snippets from pages 788-791\n')
+
     tester(reload_all, 'reloadall')

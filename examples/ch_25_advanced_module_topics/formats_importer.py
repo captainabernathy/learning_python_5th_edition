@@ -1,3 +1,5 @@
+# usage: python3 formats_importer.py
+
 from formats import money  # import money() function from formats by name
 from formats import commas  # import commas() function from formats by name
 

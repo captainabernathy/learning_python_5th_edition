@@ -1,3 +1,5 @@
+# usage: python3 reloadall3.py
+
 '''
 script transitively reloads nested modules using an explicit stack with a
 generator expression
@@ -30,4 +32,5 @@ def reload_all(*modules):
 
 if __name__ == '__main__':
     print('code snippets from pages 792-793\n')
+
     tester(reload_all, 'reloadall3')

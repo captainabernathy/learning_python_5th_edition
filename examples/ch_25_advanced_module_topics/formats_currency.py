@@ -1,8 +1,11 @@
+# usage: python3 formats_currency.py
+
 from __future__ import print_function  # for 2.X compatibility
 from formats import money
 
 if __name__ == '__main__':
     print('code snippets from pages 778-777\n')
+
     X = 54321.987
 
     print(money(X), money(X, 0, ''))

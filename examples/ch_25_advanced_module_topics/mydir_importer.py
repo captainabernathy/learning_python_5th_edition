@@ -1,3 +1,5 @@
+# usage: python3 mydir_importer.py
+
 import mydir
 import tkinter
 

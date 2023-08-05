@@ -1,3 +1,5 @@
+# usage: python3 running_code_strings.py
+
 modname = 'string'
 # NOTE: the exec() function executes its arguments as python code
 exec('import ' + modname)  # has the same effect as import string

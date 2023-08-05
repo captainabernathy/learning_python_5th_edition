@@ -1,3 +1,5 @@
+# usage: python3 minmax2_importer.py
+
 import minmax2
 
 if __name__ == "__main__":

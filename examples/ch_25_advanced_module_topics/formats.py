@@ -1,3 +1,5 @@
+# usage: python3 formats.py
+
 def commas(N):
     '''
     formats positive number N for display with commas b/t digit groupings

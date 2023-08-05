@@ -1,3 +1,5 @@
+# usage: python3 unders_importer.py
+
 import unders  # gets every named defined in the unders module
 
 if __name__ == '__main__':

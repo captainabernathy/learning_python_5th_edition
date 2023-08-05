@@ -1,3 +1,5 @@
+# usage: python3 reloadall2.py
+
 '''
 script transitively reloads nested modules using a set and dictionary object
 '''
@@ -31,4 +33,5 @@ def reload_all(*args):
 
 if __name__ == '__main__':
     print('code snippets from pages 788-791\n')
+
     tester(reload_all, 'reloadall2')
