@@ -1,5 +1,8 @@
+# usage: python3 mapping_operations.py
+
 if __name__ == '__main__':
     print('code snippets from pages 116-117\n')
+
     D = {'food': 'Spam', 'quantity': 4, 'color': 'pink'}
     print(D)  # {'food':'Spam',...,'color':'pink'}
 

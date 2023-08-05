@@ -1,5 +1,8 @@
+# usage: python3 type_specific_operations.py
+
 if __name__ == '__main__':
     print('code snippets from page 112\n')
+
     L = [123, 'spam', 1.23]
     print(L)
 

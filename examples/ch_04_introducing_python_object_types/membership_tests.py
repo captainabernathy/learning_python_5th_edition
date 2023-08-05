@@ -1,3 +1,5 @@
+# usage: python3 membership_tests.py
+
 if __name__ == '__main__':
     print('code snippets from pages 119-121\n')
     D = {'a': 1, 'b': 2, 'c': 3}

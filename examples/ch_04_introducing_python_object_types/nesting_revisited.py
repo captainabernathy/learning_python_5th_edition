@@ -1,5 +1,8 @@
+# usage: python3 nesting_revisited.py
+
 if __name__ == '__main__':
     print('code snippets from pages 117-118\n')
+
     # nested dictionary
     rec = {'name': {'first': 'Bob', 'last': 'Smith'},
            'jobs': ['dev', 'mgr'],

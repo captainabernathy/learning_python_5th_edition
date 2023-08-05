@@ -1,7 +1,10 @@
+# usage: python3 binary_bytes_files.py
+
 import struct  # module can both create and unpack binary data
 
 if __name__ == '__main__':
     print('code snippets from page 127\n')
+
     # create packed binary data
     packed = struct.pack('>i4sh', 7, b'spam', 8)
     print(packed)

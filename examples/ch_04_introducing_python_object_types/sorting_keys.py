@@ -1,5 +1,8 @@
+# usage: python3 sorting_keys.py
+
 if __name__ == '__main__':
     print('code snippets from pages 121-122\n')
+
     D = {'a': 1, 'b': 2, 'c': 3}
     print(D)  # {'a': 1, 'b': 2, 'c': 3}
 

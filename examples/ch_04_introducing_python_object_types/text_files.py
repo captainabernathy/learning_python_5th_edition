@@ -1,5 +1,8 @@
+# usage: python3 text_files.py
+
 if __name__ == '__main__':
     print('code snippets from pages 125-126\n')
+
     # the open() creates a file if it does not already exist
     f = open('data.txt', 'w')
 

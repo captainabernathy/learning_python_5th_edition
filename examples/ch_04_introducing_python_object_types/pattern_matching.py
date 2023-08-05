@@ -1,7 +1,10 @@
+# usage: python3 pattern_matching.py
+
 import re  # regular expression module
 
 if __name__ == '__main__':
     print('code snippets from pages 110-111\n')
+
     # NOTE: parenteses denote matching groups
     # search for substring that begins with Hello followed by zero or more tabs
     # or spaces followed by arbitrary characters to be saved as a matched

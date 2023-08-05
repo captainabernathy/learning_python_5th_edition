@@ -1,5 +1,8 @@
+# usage: python3 nesting.py
+
 if __name__ == '__main__':
     print('code snippets from page 113\n')
+
     # use a matrix to code a nested list
     M = [[1, 2, 3],
          [4, 5, 6],

@@ -1,5 +1,8 @@
+# usage: python3 sequence_operations_strings.py
+
 if __name__ == '__main__':
     print('code snippets from pages 101-103\n')
+
     # assignment
     S = 'Spam'
 

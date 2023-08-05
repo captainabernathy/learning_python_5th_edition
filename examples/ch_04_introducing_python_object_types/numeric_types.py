@@ -1,3 +1,5 @@
+# usage: python3 numeric_types.py
+
 import math
 import random
 

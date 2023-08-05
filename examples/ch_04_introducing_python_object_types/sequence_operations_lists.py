@@ -1,5 +1,8 @@
+# usage: python3 sequence_operations_lists.py
+
 if __name__ == '__main__':
     print('code snippets from pages 111-112\n')
+
     # create a list
     L = [123, 'spam', 1.23]
     print(L)

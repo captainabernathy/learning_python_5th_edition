@@ -1,8 +1,12 @@
+# usage: python3 unicode_text_files.py
+# coding=utf-8
+
 if __name__ == '__main__':
     print('code snippets from pages 127-128\n')
+
     S = 'sp\xc4m'
-    print(S)  # spAm... A has an umlaut
-    print(S[2])  # A with an umlaut
+    print(S)  # spÄm
+    print(S[2])  # Ä
 
     # open/create a utf-8 encoded file for writing
     f = open('unidata.txt', 'w', encoding='utf-8')
@@ -23,7 +27,7 @@ if __name__ == '__main__':
     print(text.encode('utf-8'))  # a 5-character byte-string
 
     # use the decode() method to decode an encoded data object
-    print(raw.decode('utf-8'))  # spAm... A w/umlaut
+    print(raw.decode('utf-8'))  # spÄm
 
     # playing with different encoding
     print(text.encode('latin-1'))  # a 4-character byte-string

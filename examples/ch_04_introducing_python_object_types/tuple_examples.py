@@ -1,5 +1,8 @@
+# usage: python3 tuple_examples.py
+
 if __name__ == '__main__':
     print('code snippets from pages 124-125\n')
+
     T = (1, 2, 3, 4)
     print(T)  # (1,2,3,4)
 

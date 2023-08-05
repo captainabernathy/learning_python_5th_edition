@@ -1,5 +1,8 @@
+# usage: python3 type_specific_methods.py
+
 if __name__ == '__main__':
     print('code snippets from pages 103-108\n')
+
     S = 'Spam'
     print(S)  # Spam
 

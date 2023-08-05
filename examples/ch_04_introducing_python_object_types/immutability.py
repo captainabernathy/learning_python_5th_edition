@@ -1,5 +1,8 @@
+# usage: python3 immutability.py
+
 if __name__ == '__main__':
     print('code snippets from pages 103-104\n')
+
     S = 'Spam'
     print(S)  # Spam
 
