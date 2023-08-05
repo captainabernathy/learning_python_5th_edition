@@ -1,3 +1,5 @@
+# usage: python3 interact.py
+
 if __name__ == '__main__':
     print('covers code examples from pages 340-347\n')
 
