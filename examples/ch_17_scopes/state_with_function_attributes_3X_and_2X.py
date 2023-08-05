@@ -1,3 +1,5 @@
+# usage: python3 state_with_function_attributes_3X_and_2X.py
+
 # function that uses the value it receives to initialize an internal attribute
 # and returns a handle to a nested function that update the attribute
 def tester1(start):
@@ -21,6 +23,7 @@ def tester2(start):
 
 if __name__ == '__main__':
     print('code snippets from pages 537-538\n')
+
     F = tester1(0)
     F('spam')  # spam 0
     F('ham')  # ham 1

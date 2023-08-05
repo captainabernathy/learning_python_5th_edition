@@ -1,3 +1,5 @@
+# usage: python3 nested_scope_examples.py
+
 X = 99  # global variable
 
 
@@ -23,6 +25,7 @@ def f1A():
 
 if __name__ == '__main__':
     print('code snippets from pages 521-522\n')
+
     f1()  # 88
     print('')
     action = f1A()

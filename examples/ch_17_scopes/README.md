@@ -1,22 +1,16 @@
 ## Chapter 17 - Scopes
 
-## Programs
+### Source Code Directory
 
 ### Python Scope Basics
-
-#### The Built-in Scope
 * builtin\_scope.py 
 
 ### The global Statement
 * global\_statement.py
-
-#### Program Design: Minimize Cross-File Changes
-* minimize\_global\_variables\_first.py
-* minimize\_global\_variables\_second.py 
-
-#### Other Ways to Access Globals
-* other\_ways\_to\_access\_globals.py 
+* first.py
+* second.py 
 * thismod.py
+* other\_ways\_to\_access\_globals.py 
 
 ### Scopes and Nested Functions
 * nested\_scope\_examples.py

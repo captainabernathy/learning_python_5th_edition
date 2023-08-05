@@ -1,3 +1,5 @@
+# usage: python3 nonlocal_statement.py
+
 def tester1(start):
     state = start  # referencing nonlocals works normally
 
@@ -26,6 +28,7 @@ def tester2(start):
 
 if __name__ == '__main__':
     print('code snippets from pages 531-532\n')
+
     F = tester1(0)
     F('spam')  # spam 0
     F('ham')  # ham 0

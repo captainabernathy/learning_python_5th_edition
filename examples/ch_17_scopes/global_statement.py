@@ -1,3 +1,5 @@
+# usage: python3 global_statement.py
+
 # X, y, and z are globally defined integers
 X = 88
 y, z = 1, 2

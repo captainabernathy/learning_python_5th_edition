@@ -1,3 +1,5 @@
+# usage: python3 factory_function_closures.py
+
 # returns a handle to an enclosed function that subsequently raises the value
 # passed to it by N
 def maker(N):
@@ -18,6 +20,7 @@ def maker_lambda(N):
 
 if __name__ == '__main__':
     print('code snippets from pages 522-523\n')
+
     # f is handle to a function that will return the square of the value of the
     # argument subsequnetly passed to it
     f = maker(2)

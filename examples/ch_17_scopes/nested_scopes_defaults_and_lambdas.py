@@ -1,3 +1,5 @@
+# usage: python3 nested_scopes_defaults_and_lambdas.py
+
 # function that returns a handle to a lambda function that will subsequently
 # return the value of 4 raised to the power of the value passed to it
 def func1():
@@ -40,6 +42,7 @@ def f11():
 
 if __name__ == '__main__':
     print('code snippets from pages 526-528\n')
+
     x = func1()
     print(x(2))  # 16... 4 ** 2
 

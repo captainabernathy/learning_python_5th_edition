@@ -1,3 +1,5 @@
+# usage: python3 state_with_classes_explicit_attributes.py
+
 # simple class that provides a function for updating an attribute
 class tester1:
     def __init__(self, start):
@@ -21,6 +23,7 @@ class tester2:
 
 if __name__ == '__main__':
     print('code snippets from pages 535-536\n')
+
     F = tester1(0)
     F.nested('spam')  # spam 0
     F.nested('ham')  # ham 1

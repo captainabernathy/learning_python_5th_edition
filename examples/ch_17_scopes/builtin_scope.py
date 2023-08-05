@@ -1,4 +1,6 @@
-# NOTE: thie built-in scope is implemented as a standard library module called
+# usage: python3 builtin_scope.py
+
+# NOTE: the built-in scope is implemented as a standard library module called
 # builtins... BUT you have to import builtins in order to access the name
 # builtins
 

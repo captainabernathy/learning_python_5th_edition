@@ -1,3 +1,5 @@
+# usage: python3 retaining_enclosing_scope_state_with_defaults.py
+
 # function that defines and calls a nesetd function that accesses a variable
 # defined in the enclosing scope
 def f1():
@@ -21,5 +23,6 @@ def f2(x):
 
 if __name__ == '__main__':
     print('code snippets from pages 525-526\n')
+
     f1()  # 88
     f11()  # 88

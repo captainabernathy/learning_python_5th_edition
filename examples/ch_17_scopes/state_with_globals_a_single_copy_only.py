@@ -1,3 +1,5 @@
+# usage: python3 state_with_globals_a_single_copy_only.py
+
 # function exports a variable to the modlule's global scope and returns a
 # handle to a function that accesses and updates this variable
 def tester(start):
@@ -17,6 +19,7 @@ def tester(start):
 
 if __name__ == '__main__':
     print('code snippets from pages 534-535\n')
+
     F = tester(0)  # sets the global state
     F('spam')  # spam 0
     F('eggs')  # eggs 1
