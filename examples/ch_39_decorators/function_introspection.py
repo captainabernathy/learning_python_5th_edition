@@ -1,3 +1,5 @@
+# usage: python3 function_introspection.py
+
 import sys
 
 
@@ -19,6 +21,8 @@ def f2(a, b, *kargs, **pargs):
 
 
 if __name__ == '__main__':
+    print('code snippets from page 1383\n')
+
     # NOTE: the fn_name.__code__ attribute is named fn_name.func_code in
     # python <= 2.5
     code = func.__code__ if sys.version_info[0] == 3 else func.func_code

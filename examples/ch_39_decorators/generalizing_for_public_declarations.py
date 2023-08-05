@@ -1,3 +1,5 @@
+# usage: python3 generalizing_for_public_declarations.py
+
 from access2 import private
 from access2 import public
 

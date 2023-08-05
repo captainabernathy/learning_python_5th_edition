@@ -1,3 +1,5 @@
+# usage: python3 calltracer_desc_01.py
+
 class tracer(object):  # a decorator + descriptor
     def __init__(self, func):  # runs on @tracer decorator
         self.calls = 0

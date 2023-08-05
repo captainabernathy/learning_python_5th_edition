@@ -1,3 +1,5 @@
+# usage: python3 decorator1.py
+
 class tracer:
     # runs on @tracer decoration
     def __init__(self, func):

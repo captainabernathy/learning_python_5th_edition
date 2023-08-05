@@ -1,3 +1,5 @@
+# usage: python3 class_blunders_02_retaining_multiple_instances.py
+
 # handles multiple classes but won't work for multiple instances of a given
 # class... each instance construction triggers __call__(), which overwirtes the
 # prior instance... so it only saves the last one created

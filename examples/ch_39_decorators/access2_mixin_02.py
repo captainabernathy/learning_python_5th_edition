@@ -60,4 +60,3 @@ def private(*attributes):
 def public(*attributes):
     return access_control(fail_if=(lambda attr: attr not in attributes))
 
-

@@ -1,3 +1,5 @@
+# usage: python3 decorator4.py
+
 # state via enclosing scope and nonlocal instead of class attrs or global
 def tracer(func):
     calls = 0

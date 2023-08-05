@@ -1,3 +1,5 @@
+# usage: python3 managing_functions_and_classes_directly.py
+
 # augmenting decorated objects directly
 def decorate(func):
     func.marked = True

@@ -1,3 +1,5 @@
+# usage: python3 testseqs.py
+
 import sys
 from timerdeco2 import timer
 

@@ -1,3 +1,5 @@
+# usage: python3 timerdeco1.py
+
 # program times calls made to a decorated function -- bot the time for one
 # call, and the total time among calls
 #

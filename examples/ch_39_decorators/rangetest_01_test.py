@@ -1,3 +1,5 @@
+# usage: python(2/3) rangetest_01_test.py
+
 from __future__ import print_function
 from rangetest_01 import rangetest
 

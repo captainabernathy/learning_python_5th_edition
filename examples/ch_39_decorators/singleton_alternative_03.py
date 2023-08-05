@@ -1,3 +1,5 @@
+# usage: python3 singleton_alternative_03.py
+
 class singleton:
     # 3X and 2X classes
     def __init__(self, acls):  # runs on @singleton decoration

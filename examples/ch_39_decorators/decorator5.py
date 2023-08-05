@@ -1,3 +1,5 @@
+# usage: python3 decorator5.py
+
 # state via enclosing scope and func attr calls is per-function, NOT global...
 # runs in 2X or 3X
 def tracer(func):

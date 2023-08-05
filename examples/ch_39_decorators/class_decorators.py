@@ -1,3 +1,5 @@
+# usage: python3 class_decorators.py
+
 def decorator(cls):  # runs on @decorator
     class Wrapper:
         def __init__(self, *args):  # runs on instance creation

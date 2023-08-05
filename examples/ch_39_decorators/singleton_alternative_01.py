@@ -1,3 +1,5 @@
+# usage: python3 singleton_alternative_01.py
+
 # NOTE: 3X compatible only!
 
 def singleton(aCls):  # runs on @singleton decoration

@@ -1,3 +1,5 @@
+# usage: python3 calltracer.py
+
 # call tracer decorator for both functions and methods
 
 # NOTE: define tracer as a function, NOT a class with __call__()... else

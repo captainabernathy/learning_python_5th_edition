@@ -1,3 +1,5 @@
+# usage: python3 decorator2.py
+
 # this version of tracer differs from the one in decorator1.py in that it also
 # forwards positional arguments
 class tracer:  # state via instance attributes

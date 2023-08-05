@@ -1,3 +1,5 @@
+# usage: python3 singleton_global_table.py
+
 instances = {}
 
 

@@ -1,3 +1,5 @@
+# usage: python3 class_blunders_01_decorating_methods.py
+
 class tracer:
     def __init__(self, func):
         self.calls = 0

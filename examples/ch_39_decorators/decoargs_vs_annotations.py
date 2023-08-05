@@ -1,3 +1,5 @@
+# usage: python3 decoargs_vs_annotations.py
+
 # skeleton for using decorator arguments to perform range testing in 3X and 2X
 def rangetest_deco(**argchecks):
     def on_decorator(func):

@@ -1,3 +1,5 @@
+# usage: python3 registry_deco.py
+
 # Registering decorated objects to an API
 from __future__ import print_function
 

@@ -1,3 +1,5 @@
+# usage: python3 interfacetracer.py
+
 # Original nondecorator delegation example
 class Wrapper:
     '''

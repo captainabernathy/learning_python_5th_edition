@@ -1,3 +1,5 @@
+# usage: python3 tracing_calls.py
+
 from decorator1 import spam
 
 

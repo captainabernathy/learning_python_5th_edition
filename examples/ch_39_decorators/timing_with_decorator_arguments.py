@@ -1,3 +1,5 @@
+# usage: python3 timing_with_decorator_arguments.py
+
 from timerdeco2 import timer
 
 

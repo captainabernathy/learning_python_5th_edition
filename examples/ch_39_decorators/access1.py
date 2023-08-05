@@ -1,3 +1,5 @@
+# usage: python3 access1.py
+
 trace_me = False
 
 

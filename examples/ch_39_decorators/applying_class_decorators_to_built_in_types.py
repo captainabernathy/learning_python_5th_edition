@@ -1,3 +1,5 @@
+# usage: python3 applying_class_decorators_to_built_in_types.py
+
 from interfacetracer import Tracer
 
 
