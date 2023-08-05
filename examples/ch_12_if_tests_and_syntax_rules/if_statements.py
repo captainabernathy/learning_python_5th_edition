@@ -1,5 +1,8 @@
+# usage: python3 if_statements.py
+
 if __name__ == '__main__':
     print('code snippets from pages 384-386\n')
+
     if 1:  # always true
         print('true')
     else:

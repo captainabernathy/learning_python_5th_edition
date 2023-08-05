@@ -1,5 +1,8 @@
+# usage: python3 truth_values_and_boolean_tests.py
+
 if __name__ == '__main__':
     print('code snippets from page 394\n')
+
     print(2 < 3, 3 < 2)  # True, False
 
     # NOTE: for tests with or, python returns the first operand that evalutes

@@ -1,6 +1,6 @@
 ## Chapter 12 - if Tests and Syntax Rules
 
-## Programs
+### Source Code Directory
 
 ### if Statements
 * if\_statements.py
