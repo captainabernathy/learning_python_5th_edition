@@ -1,3 +1,5 @@
+# usage: python3 providing_exception_details.py
+
 # NOTE: Exception classes simplify the process of passing along extra state
 # information in an exception
 class FormatError1(Exception):

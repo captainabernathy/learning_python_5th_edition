@@ -1,3 +1,5 @@
+# usage: python3 custom_print_displays_01.py
+
 class MyBad1(Exception):
     pass
 

@@ -1,3 +1,5 @@
+# usage: python3 classexc2.py
+
 class General(Exception):
     pass
 

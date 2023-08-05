@@ -1,3 +1,5 @@
+# usage: python3 default_printing_and_state.py
+
 # NOTE: by default instances of class-based exceptions display whatever is
 # passed to the class constructor when they are caught (and printed)
 class E(Exception):
