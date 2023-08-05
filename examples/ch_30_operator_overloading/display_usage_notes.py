@@ -1,3 +1,5 @@
+# usage: python3 display_usage_notes.py
+
 class Printer1:
     def __init__(self, val):
         self.val = val

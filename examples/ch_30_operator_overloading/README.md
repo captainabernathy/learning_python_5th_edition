@@ -1,6 +1,6 @@
 ## Chapter 30 - Operator Overloading
 
-## Programs
+### Source Code Directory
 
 ### The Basics
 * number.py
@@ -40,6 +40,7 @@
 
 ### Right-Side and In-Place Uses: \_\_radd\_\_ and \_\_iadd\_\_
 * commuter.py
+* in\_place\_addition.py  
 
 ### Call Expressions: \_\_call\_\_
 * call\_expressions.py

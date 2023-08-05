@@ -1,3 +1,5 @@
+# usage: python2 boolean_methods_in_2x.py
+
 from __future__ import print_function
 
 
@@ -21,6 +23,7 @@ class C2:
 
 if __name__ == '__main__':
     print('code snippets from pages 957-958\n')
+
     X = C1()
     print(bool(X))  # True... 2.X ignores __bool__()
     print('')

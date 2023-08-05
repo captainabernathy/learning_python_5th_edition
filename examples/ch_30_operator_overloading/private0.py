@@ -1,3 +1,5 @@
+# usage: python3 private0.py
+
 class PrivateExc(Exception):
     pass  # will cover this later in the book
 
@@ -23,6 +25,7 @@ class Test2(Privacy):
 
 if __name__ == '__main__':
     print('code snippets from pages 941-942\n')
+
     x = Test1()
     y = Test2()
     x.name = 'Bob'  # ok

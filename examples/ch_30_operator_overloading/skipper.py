@@ -1,3 +1,5 @@
+# usage: python3 skipper.py
+
 # class defines an interable object that skips every other item on iterations
 class SkipObject:
     def __init__(self, wrapped):  # save item to be used

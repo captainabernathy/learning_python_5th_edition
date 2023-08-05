@@ -1,3 +1,5 @@
+# usage: python3 slicing_and_indexing_in_2X.py
+
 # NOTE: python 2.X classes can also define the __getslice__() and
 # __setslice__() methods to get/set objects by slice objects
 class Slicer:
@@ -16,6 +18,7 @@ class Slicer:
 
 if __name__ == '__main__':
     print('code snippets from pages 921-922\n')
+
     Slicer()[1]  # 1... runs __getitem__() with int... like 3.X
     Slicer()[1:9]  # 1 9... runs __getslice__() if present, else __getitem__
     Slicer()[1:9:2]  # runs __getitem__() with slice()... like 3.X

@@ -1,3 +1,5 @@
+# usage: python3 attribute_access_getattr_and_setattr.py
+
 class Empty:
     # NOTE: __getattr__() serves a hook for generic attribute requests
     def __getattr__(self, attrname):
@@ -29,6 +31,7 @@ if __name__ == '__main__':
 
     X = Empty()
     print(X.age)  # 40
+
     try:
         print(X.name)
     except AttributeError:
@@ -42,6 +45,7 @@ if __name__ == '__main__':
     X = Accesscontrol()
     X.age = 40
     print(X.age)  # 50
+
     try:
         X.name = 'Bob'
     except AttributeError as ex:

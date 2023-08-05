@@ -1,3 +1,5 @@
+# usage: python(2/3) contains_yield.py
+
 from __future__ import print_function  # for 2.X/3.X interoperability
 
 
@@ -26,6 +28,7 @@ class Iters:
 
 if __name__ == '__main__':
     print('code snippets from pages 936-937\n')
+
     X = Iters([1, 2, 3, 4, 5])
     print(3 in X)  # contains: True
     print('')

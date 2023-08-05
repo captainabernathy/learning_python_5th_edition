@@ -1,3 +1,5 @@
+# usage: python(2/3) skipper_2x.py
+
 from __future__ import print_function  # for 2.X/3.X interoperability
 
 

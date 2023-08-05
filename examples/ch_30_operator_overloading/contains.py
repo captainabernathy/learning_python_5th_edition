@@ -1,3 +1,5 @@
+# usage: python(2/3) contains.py
+
 from __future__ import print_function  # for 2.X/3.X interoperability
 
 

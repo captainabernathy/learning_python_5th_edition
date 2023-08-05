@@ -1,3 +1,5 @@
+# usage: python3 in_place_addition.py
+
 class Number1:
     def __init__(self, val):
         self.val = val
@@ -20,6 +22,7 @@ class Number2:
 
 if __name__ == '__main__':
     print('code snippets from page 950\n')
+
     x = Number1(5)
     print(x.val)  # 5
     x += 1

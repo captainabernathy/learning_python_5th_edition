@@ -1,3 +1,5 @@
+# usage: python3 call_expressions.py
+
 # NOTE: __call__() overrides the function call operator
 class Callee:
     def __call__(self, *pargs, **kargs):
@@ -37,6 +39,7 @@ class Prod2:
 
 if __name__ == '__main__':
     print('code snippets from pages 950-952\n')
+
     C = Callee()
     C(1, 2, 3)  # Called: (1,2,3) {}
     C(1, 2, 3, x=4, y=5, z='Sally')  # Called: (1,2,3){'x':4,'y':5,'z':'Sally'}

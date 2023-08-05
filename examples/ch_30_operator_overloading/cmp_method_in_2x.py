@@ -1,3 +1,5 @@
+# usage: python2 cmp_method_in_2x.py
+
 from __future__ import print_function
 
 
@@ -12,6 +14,7 @@ class C:
 
 if __name__ == '__main__':
     print('code snippets from pages 955-956\n')
+
     X = C()
     print(X > 'ham')  # True
     print(X < 'ham')  # False

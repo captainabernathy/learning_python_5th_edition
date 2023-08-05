@@ -1,3 +1,5 @@
+# usage: python3 coding_alternative_iter_plus_yield.py
+
 from squares_yield import Squares as SquaresYield
 from squares_manual import Squares as SquaresManual
 from squares_nonyield import Squares as SquaresNonyield
@@ -12,6 +14,7 @@ def gen(x):
 
 if __name__ == '__main__':
     print('code snippets from pages 930-935\n')
+
     G = gen(5)  # create a generator... with __iter__() and __next__()
     print(G.__iter__() == G)  # True... both methods exist on the same object
 

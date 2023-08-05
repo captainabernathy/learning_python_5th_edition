@@ -1,3 +1,5 @@
+# usage: python3 but_3X__index__is_not_indexing.py
+
 # NOTE: the __index__() method in python 3.X returns the integer value for
 # instance... and is used by built-ins that convert their argument to numeric
 # strings

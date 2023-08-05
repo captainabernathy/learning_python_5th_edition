@@ -1,3 +1,5 @@
+# usage: python3 membership_contains_iter_and_getitem.py
+
 from contains import Iters
 
 if __name__ == '__main__':

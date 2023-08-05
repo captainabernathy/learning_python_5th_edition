@@ -1,3 +1,5 @@
+# usage: python3 boolean_tests_bool_and_len.py
+
 # NOTE: in boolean contexts, python 3.X first tries __bool__() to obtain a
 # direct boolean value, but if __bool__() is not defined, python then tries
 # __len__() to infer a value based on an object's length... but 2.X tries
@@ -33,6 +35,7 @@ class Truth5:
 
 if __name__ == '__main__':
     print('code snippets from pages 956-957\n')
+
     X = Truth1()
     if X:
         print('yes!')  # yes!

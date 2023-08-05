@@ -1,3 +1,5 @@
+# usage: python3 object_destruction_del.py
+
 # NOTE: the __del__() method is run automatically at garbage collection time
 
 class Life:
@@ -14,6 +16,7 @@ class Life:
 
 if __name__ == '__main__':
     print('code snippets from page 959\n')
+
     brian = Life('Brian')  # Hello, Brian
     brian.live()  # Brian
     brian = 'bob'  # Goodbye Brian... since object is reclaimed

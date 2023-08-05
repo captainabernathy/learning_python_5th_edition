@@ -1,3 +1,5 @@
+# usage: python3 user_defined_iterables.py
+
 from squares import Squares
 
 

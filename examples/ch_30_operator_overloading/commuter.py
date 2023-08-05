@@ -1,3 +1,5 @@
+# usage: python(2/3) commuter.py
+
 from __future__ import print_function  # for 2.X/3.X interoperability
 
 
@@ -68,6 +70,7 @@ class Commuter5:
 
 if __name__ == '__main__':
     print('code snippets from pages 946-949\n')
+
     for klass in (Commuter1, Commuter2, Commuter3, Commuter4, Commuter5):
         print('-' * 60)
         x = klass(88)

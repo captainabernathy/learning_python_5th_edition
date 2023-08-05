@@ -1,3 +1,5 @@
+# usage: python3 index_iteration_getitem.py
+
 # NOTE: Any class that supports for loops automatically supports all iteration
 # contexts
 class StepperIndex:
@@ -9,11 +11,12 @@ class StepperIndex:
 
 if __name__ == '__main__':
     print('code snippets from page 923\n')
+
     X = StepperIndex()
     X.data = 'Spam'
     print(X[1])  # p
 
-    # for loops call __getitem__ for indices 0...N
+    # for loops call __getitem__()
     for item in X:
         print(item, end=' ')  # S p a m
     print('\n')

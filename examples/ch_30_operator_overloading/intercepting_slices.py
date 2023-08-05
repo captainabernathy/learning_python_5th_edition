@@ -1,3 +1,5 @@
+# usage: python3 intercepting_slices.py
+
 # class that demonstrates how to overload the __getitem__() method
 class Indexer_01:
     data = [5, 6, 7, 8, 9]  # class data
