@@ -1,3 +1,5 @@
+# usage: python3 tuple_conversion_methods_and_immutability.py
+
 if __name__ == '__main__':
     print('code snippets from pages 287-288\n')
     

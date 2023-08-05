@@ -1,8 +1,11 @@
+# usage: python3 files_in_action.py
+
 if __name__ == '__main__':
     print('code snippets from pages 294-295\n')
 
     # NOTE: open() returns a file object
     myfile = open('myfile.txt', 'w')  # open/create text file for writing
+
     # use the write() method to write text to a file
     myfile.write('hello text file\n')
     myfile.write('goodbye text file\n')

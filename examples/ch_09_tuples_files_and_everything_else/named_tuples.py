@@ -1,3 +1,5 @@
+# usage: python3 named_tuples.py
+
 from collections import namedtuple
 
 if __name__ == '__main__':

@@ -1,7 +1,10 @@
+# usage: python3 storing_packed_binary_data_struct.py
+
 import struct
 
 if __name__ == '__main__':
     print('code snippets from pages 302-303\n')
+
     # open/create file for binary output
     F = open('data.bin', 'wb')
 

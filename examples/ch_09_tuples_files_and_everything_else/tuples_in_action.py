@@ -1,5 +1,8 @@
+# usage: python3 tuples_in_action.py
+
 if __name__ == '__main__':
     print('code snippets from pages 285-286\n')
+
     # NOTE: (stuff,) creates a tuple... comman is necessary
     
     # Tuple operations

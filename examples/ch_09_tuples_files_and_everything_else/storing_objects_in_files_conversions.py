@@ -1,3 +1,5 @@
+# usage: python3 storing_objects_in_files_conversions.py
+
 if __name__ == '__main__':
     print('code snippets from pages 297-298\n')
 
