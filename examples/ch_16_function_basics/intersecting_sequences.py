@@ -1,3 +1,5 @@
+# usage: python3 intersecting_sequences.py
+
 # returns a list that contains the intersection of the elements found within
 # any two iterable types it receives
 def intersect(seq1, seq2):
@@ -9,6 +11,8 @@ def intersect(seq1, seq2):
 
 
 if __name__ == '__main__':
+    print('code snippets from pages 500-501\n')
+
     s1 = 'SPAM'
     s2 = 'SCAM'
     print(intersect(s1, s2))  # ['S','A','M']
