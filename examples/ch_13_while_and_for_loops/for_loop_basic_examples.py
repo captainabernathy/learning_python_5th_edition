@@ -1,5 +1,8 @@
+# usage: python3 for_loop_basic_examples.py
+
 if __name__ == '__main__':
     print('code snippets from pages 410-411\n')
+
     # iterate over items in a list
     for x in ['spam', 'eggs', 'ham']:
         print(x, end=' ')  # spam eggs ham

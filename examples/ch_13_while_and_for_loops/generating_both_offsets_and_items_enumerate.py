@@ -1,5 +1,8 @@
+# usage: python3 generating_both_offsets_and_items_enumerate.py
+
 if __name__ == '__main__':
     print('code snippets from pages 425-426\n')
+
     S = 'spam'
     offset = 0
     print(S)

@@ -1,5 +1,8 @@
+# usage: python3 nested_for_loops.py
+
 if __name__ == '__main__':
     print('code snippets from pages 414-415\n')
+
     items = ['aaa', 111, (4, 5), 2.01]
     tests = [(4, 5), 3.14]
 

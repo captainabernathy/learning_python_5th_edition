@@ -1,5 +1,8 @@
+# usage: python3 tuple_assignments_in_for_loops.py
+
 if __name__ == '__main__':
     print('code snippets from pages 411-412\n')
+
     T = [(1, 2), (3, 4), (5, 6)]  # a list of tuples
     print(T)  # [(1, 2), (3, 4), (5, 6)]
     for (a, b) in T:

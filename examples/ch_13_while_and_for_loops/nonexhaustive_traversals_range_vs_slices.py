@@ -1,5 +1,8 @@
+# usage: python3 nonexhaustive_traversals_range_vs_slices.py
+
 if __name__ == '__main__':
     print('code snippets from pages 420-421\n')
+
     S = 'abcdefghijk'
     print(S)  # abcdefghijk
     # indices of every other element in S

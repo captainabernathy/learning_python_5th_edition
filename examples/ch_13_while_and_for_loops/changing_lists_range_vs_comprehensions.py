@@ -1,5 +1,8 @@
+# usage: python3 changing_lists_range_vs_comprehensions.py
+
 if __name__ == '__main__':
     print('code snippets from pages 421-422\n')
+
     L = [1, 2, 3, 4, 5]
     print(L)  # [1, 2, 3, 4, 5]
 

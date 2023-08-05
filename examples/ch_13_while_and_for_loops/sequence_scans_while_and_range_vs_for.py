@@ -1,5 +1,8 @@
+# usage: python3 sequence_scans_while_and_range_vs_for.py
+
 if __name__ == '__main__':
     print('code snippets from pages 418-419\n')
+
     X = 'spam'
     print(X)  # spam
     print(len(X))  # 4

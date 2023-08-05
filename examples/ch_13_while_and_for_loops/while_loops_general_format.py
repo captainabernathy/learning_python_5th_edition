@@ -1,5 +1,8 @@
+# usage: python3 while_loops_general_format.py
+
 if __name__ == '__main__':
     print('code snippets from pages 402-403\n')
+
     x = 'spam'
     while x:
         print(x, end=' ')  # spam pam am m

@@ -1,5 +1,8 @@
+# usage: python3 python3x_extended_sequence_assignment_in_for_loops.py
+
 if __name__ == '__main__':
     print('code snippets from page 413\n')
+
     a, b, c = (1, 2, 3)
     print(a, b, c)  # 1 2 3
     print('')

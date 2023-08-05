@@ -1,5 +1,8 @@
+# usage: python3 sequence_shufflers_range_len.py
+
 if __name__ == '__main__':
     print('code snippets from pages 419-420\n')
+
     S = 'spam'
     print(S)  # spam
     print('')

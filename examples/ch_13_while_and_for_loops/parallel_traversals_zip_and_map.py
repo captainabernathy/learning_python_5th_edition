@@ -1,5 +1,8 @@
+# usage: python3 parallel_traversals_zip_and_map.py
+
 if __name__ == '__main__':
     print('code snippets from pages 422-425\n')
+
     L1 = [1, 2, 3, 4]
     L2 = [5, 6, 7, 8]
     print(L1)  # [1,2,3,4]
