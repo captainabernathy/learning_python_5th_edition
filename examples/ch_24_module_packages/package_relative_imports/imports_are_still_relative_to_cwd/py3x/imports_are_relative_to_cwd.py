@@ -1,3 +1,5 @@
+# usage: python3 imports_are_relative_to_cwd.py
+
 import pkg.spam  # module's lookup will load string module from this directory
 
 

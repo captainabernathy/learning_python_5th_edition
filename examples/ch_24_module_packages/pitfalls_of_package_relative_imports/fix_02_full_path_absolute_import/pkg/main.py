@@ -1,5 +1,7 @@
 # NOTE: to run this file set PYTHONPATH to the directory above this one...
 # same results for 2.X and 3.X
+
+# usage: python3 main.py
 import spam
 
 

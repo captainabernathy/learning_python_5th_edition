@@ -1,3 +1,5 @@
+# usage: python2 relative.py
+
 # loads string from pkg  (via relative import due to 2.X import rules)
 import pkg.spam
 

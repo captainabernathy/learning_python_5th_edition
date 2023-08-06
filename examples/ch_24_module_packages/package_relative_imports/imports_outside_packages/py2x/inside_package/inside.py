@@ -1,4 +1,4 @@
-# NOTE: run with python2
+# usage: python2 inside.py
 
 # NOTE: imports are relaive to the home directory you're working in, and
 # package relative import synatx is not allowed in code that is not in a file

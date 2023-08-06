@@ -1,3 +1,5 @@
+# usage: python3 absolute.py
+
 import pkg.spam  # loads string from this directory (via absolute import)
 
 

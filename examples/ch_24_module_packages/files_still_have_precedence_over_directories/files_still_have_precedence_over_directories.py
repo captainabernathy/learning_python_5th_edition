@@ -1,8 +1,9 @@
+# usage: python3 files_still_have_precedence_over_directories.py
 if __name__ == '__main__':
     print('code snippets from pages 765-766\n')
 
     import ns2
-    # when PYTHONPATH is empty... 
+    # when PYTHONPATH is empty...
     # or
     # when PYTHONPATH is '/path/to/ns4/dir1:/path/to/ns4/dir2'
     # ^^^ <module 'ns2' (<_frozen...>)>
@@ -12,7 +13,7 @@ if __name__ == '__main__':
     print('')
 
     try:
-        # when PYTHONPATH is empty... 
+        # when PYTHONPATH is empty...
         # or
         # when PYTHONPATH is '/path/to/ns4/dir1:/path/to/ns4/dir2'
         # ^^^ _NamespacePath(['/path/to/ns2']) ... a directory

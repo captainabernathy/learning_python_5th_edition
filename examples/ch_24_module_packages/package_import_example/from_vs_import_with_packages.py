@@ -1,6 +1,10 @@
+# usage: python3 from_vs_import_with_packages.py
+
 # no need to update PYTHONPATH
 
 if __name__ == '__main__':
+    print('code snippets from page 737\n')
+
     from dir1.dir2 import mod
     print(mod.z)  # 3... access z through mod
     print('')

@@ -1,3 +1,5 @@
+# usage: python2 relative.py
+
 # NOTE: lookups for dotted imports (from . import x, from .x import y) are
 # relative-only in both python 2.X and 3.X while...
 # lookups for non-dotted imports (import x, from x import y) are absolute-only

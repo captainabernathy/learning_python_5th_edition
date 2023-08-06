@@ -1,3 +1,5 @@
+# usage: python3 imports_within_packages.py
+
 # no need to update PYTHONPATH
 import pkg.spam
 

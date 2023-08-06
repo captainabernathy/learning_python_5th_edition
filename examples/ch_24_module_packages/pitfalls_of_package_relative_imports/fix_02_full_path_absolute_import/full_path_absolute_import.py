@@ -1,3 +1,5 @@
+# usage: python3 full_path_absolute_import.py
+
 import pkg.spam  # no need to update PYTHONPATH... same results in 2.X and 3.X
 
 

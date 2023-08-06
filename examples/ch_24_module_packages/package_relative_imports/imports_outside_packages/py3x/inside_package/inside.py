@@ -1,3 +1,5 @@
+# usage: python3 inside.py
+
 # NOTE: imports are relaive to the home directory you're working in, and
 # package relative import synatx is not allowed in code that is not in a file
 # that ix being used as part of a package

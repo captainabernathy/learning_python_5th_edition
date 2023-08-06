@@ -1,5 +1,6 @@
 # NOTE: add ns3/dir1 and ns3/dir2 to PYTHONPATH
 
+# usage: python3 ns3.py
 
 if __name__ == '__main__':
     print('code snippets from page 763\n')

@@ -1,3 +1,5 @@
+# usage: python3 package_import_example.py
+
 # no need to update PYTHONPATH
 # NOTE: import statements run each directory's initialization file the first
 # time that directory is traversed
@@ -8,7 +10,8 @@ import dir1.dir2.mod
 from importlib import reload
 
 if __name__ == '__main__':
-    print('')
+    print('\ncode snippets from pages 736-737\n')
+
     reload(dir1)  # dir1 init
     print('')
 
