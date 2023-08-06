@@ -1,0 +1,39 @@
+## Learning Python 5th Edition - Programming Examples
+
+### Chapter Directories
+* ch\_04\_introducing\_python\_object\_types
+* ch\_05\_numeric\_types
+* ch\_06\_dynamic\_typing\_interlude
+* ch\_07\_string\_fundamentals 
+* ch\_08\_lists\_and\_dictionaries
+* ch\_09\_tuples\_files\_and\_everything\_else
+* ch\_10\_introducing\_python\_statements
+* ch\_11\_assignments\_expressions\_and\_prints
+* ch\_12\_if\_tests\_and\_syntax\_rules
+* ch\_13\_while\_and\_for\_loops
+* ch\_14\_iterations\_and\_comprehensions
+* ch\_15\_documentation\_interlude
+* ch\_16\_function\_basics
+* ch\_17\_scopes
+* ch\_18\_arguments
+* ch\_19\_advanced\_function\_topics
+* ch\_20\_comprehensions\_and\_generations
+* ch\_21\_benchmarking\_interlude
+* ch\_22\_modules\_the\_big\_picture
+* ch\_23\_module\_coding\_basics
+* ch\_24\_module\_packages
+* ch\_25\_advanced\_module\_topics
+* ch\_27\_class\_coding\_basics
+* ch\_28\_a\_more\_realistic\_example
+* ch\_29\_class\_coding\_detalis
+* ch\_30\_operator\_overloading
+* ch\_31\_designing\_with\_classes
+* ch\_32\_advanced\_class\_topics
+* ch\_33\_exception\_basics
+* ch\_34\_exception\_coding\_details
+* ch\_35\_exception\_objects
+* ch\_36\_designing\_with\_exceptions
+* ch\_37\_unicode\_and\_byte\_strings
+* ch\_38\_managed\_attributes
+* ch\_39\_decorators
+* ch\_40\_metaclasses
