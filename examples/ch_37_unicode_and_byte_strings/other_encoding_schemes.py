@@ -1,3 +1,5 @@
+# usage: python3 other_encoding_schemes.py
+
 if __name__ == '__main__':
     print('code snippets from pages 1222-1223\n')
 

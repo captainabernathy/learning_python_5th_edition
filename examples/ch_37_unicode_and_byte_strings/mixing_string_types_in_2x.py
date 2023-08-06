@@ -1,4 +1,4 @@
-# NOTE: run with python2
+# usage: python2 mixing_string_types_in_2x.py
 
 if __name__ == '__main__':
     print 'code snippets from pages 1227-1228\n'

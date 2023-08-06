@@ -1,3 +1,5 @@
+# usage: python3 type_and_content_mismatches_in_3x.py
+
 if __name__ == '__main__':
     print('code snippets from pages 1239-1240\n')
 

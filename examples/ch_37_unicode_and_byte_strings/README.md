@@ -1,57 +1,59 @@
 ## Chapter 37 - Unicode and Byte Strings
 
-## Programs
+### Source Code Directory
 
 ### String Basics
-* character_encoding_schemes.py
+* character\_encoding\_schemes.py
 
 ### Coding Basic Strings
-* python_3x_string_literals.py
-* python_2x_string_literals.py
-* string_type_conversions_3x.py
-* string_type_conversions_2x.py
+* python\_3x\_string\_literals.py
+* python\_2x\_string\_literals.py
+* string\_type\_conversions\_3x.py
+* string\_type\_conversions\_2x.py
 
 ### Coding Unicode Strings
-* coding_ascii_text.py
-* coding_non_ascii_text.py
-* encoding_and_decoding_non_ascii_text.py
-* other_encoding_schemes.py
-* byte_string_literals_encoded_text.py
-* convert_encoding.py
-* coding_unicode_strings_in_python_2x.py
-* mixing_string_types_in_2x.py
+* coding\_ascii\_text.py
+* coding\_non\_ascii\_text.py
+* encoding\_and\_decoding\_non\_ascii\_text.py
+* other\_encoding\_schemes.py
+* byte\_string\_literals\_encoded\_text.py
+* convert\_encoding.py
+* coding\_unicode\_strings\_in\_python\_2x.py
+* mixing\_string\_types\_in\_2x.py
 * text.py
 
 ### Using 3.X bytes Objects
-* bytes_objects_method_calls.py
-* bytes_objects_sequence_operations.py
-* other_ways_to_make_bytes_objects.py
-* mixing_string_types.py
+* bytes\_objects\_method\_calls.py
+* bytes\_objects\_sequence\_operations.py
+* other\_ways\_to\_make\_bytes\_objects.py
+* mixing\_string\_types.py
 
 ### Using 3.X/2.6+ bytearray Objects
-* bytearrays_in_action.py
-* python_3x_string_types_summary.py
+* bytearrays\_in\_action.py
+* python\_3x\_string\_types\_summary.py
 
 ### Using Text and Binary Files
-* text_file_basics.py
-* text_and_binary_modes_in_3x.py
-* text_and_binary_modes_in_2x.py
-* type_and_content_mismatches_in_3x.py 
+* text\_file\_basics.py
+* text\_and\_binary\_modes\_in\_3x.py
+* text\_and\_binary\_modes\_in\_2x.py
+* type\_and\_content\_mismatches\_in\_3x.py 
 
 ### Using Unicode Files
-* reading_and_writing_unicode_in_3x.py
-* dropping_the_bom_in_python.py
-* unicode_files_in_2x.py
-* unicode_filenames_and_streams.py
+* reading\_and\_writing\_unicode\_in\_3x.py
+* dropping\_the\_bom\_in\_python.py
+* unicode\_files\_in\_2x.py
+* unicode\_filenames\_and\_streams.py
 
 ### Other String Tool Changes in 3.X
-* re_pattern_matching_module_in_3x.py
-* re_pattern_matching_module_in_2x.py
-* struct_binary_data_module.py
-* pickle_object_serialization_module_in_3x.py
-* pickle_object_serialization_module_in_2x.py
+* re\_pattern\_matching\_module\_in\_3x.py
+* re\_pattern\_matching\_module\_in\_2x.py
+* struct\_binary\_data\_module.py
+* pickle\_object\_serialization\_module\_in\_3x.py
+* pickle\_object\_serialization\_module\_in\_2x.py
 * patternparse.py
 * domparse.py
 * saxparse.py
 * etreeparse.py
 
+#### Resource Files
+* mybooks.xml

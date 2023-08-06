@@ -1,5 +1,6 @@
-from xml.etree.ElementTree import parse
+# usage: python3 etreeparse.py
 
+from xml.etree.ElementTree import parse
 
 if __name__ == '__main__':
     print('code snippets from page 1254\n')

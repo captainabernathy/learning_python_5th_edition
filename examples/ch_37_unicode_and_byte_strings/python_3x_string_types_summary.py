@@ -1,3 +1,5 @@
+# usage: python3 python_3x_string_types_summary.py
+
 if __name__ == '__main__':
     print('code snippets from pages 1235-1236\n')
 

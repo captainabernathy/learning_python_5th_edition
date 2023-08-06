@@ -1,3 +1,5 @@
+# usage: python3 other_ways_to_make_bytes_objects.py
+
 if __name__ == '__main__':
     print('code snippets from page 1232\n')
 

@@ -1,3 +1,5 @@
+# usage: python3 encoding_and_decoding_non_ascii_text.py
+
 if __name__ == '__main__':
     print('code snippets from pages 1221-1222\n')
 

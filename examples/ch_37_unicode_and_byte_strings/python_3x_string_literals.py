@@ -1,3 +1,5 @@
+# usage: python3 python_3x_string_literals.py
+
 if __name__ == '__main__':
     print('code snippets from pages 1215-1216\n')
 

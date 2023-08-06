@@ -1,3 +1,5 @@
+# usage: python3 bytearrays_in_action.py
+
 if __name__ == '__main__':
     print('code snippets from pages 1233-1235\n')
 
@@ -48,13 +50,13 @@ if __name__ == '__main__':
 
     # in bytearray but not bytes...
     # {'pop', '__iadd__', 'reverse', '__imul__', 'copy', 'append', 'insert',
-    #  '__alloc__', 'clear', '__delitem__', 'extend', '__setitem__', 'remove'} 
+    #  '__alloc__', 'clear', '__delitem__', 'extend', '__setitem__', 'remove'}
     print(set(dir(bytearray(b'abc'))) - set(dir(b'abc')))
     print('')
 
     # mutable method calls
     try:
-        C.append(b'LMN')  # error... 
+        C.append(b'LMN')  # error...
     except TypeError as ex:
         print(ex)  # bytes cannot be interpreted as an integer
     print('')

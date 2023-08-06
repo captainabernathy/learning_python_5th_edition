@@ -1,6 +1,6 @@
-from __future__ import print_function
+# usage: python2 text_and_binary_modes_in_2x.py
 
-# NOTE: run with python2
+from __future__ import print_function
 
 if __name__ == '__main__':
     print('code snippets from page 1238\n')

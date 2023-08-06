@@ -1,3 +1,5 @@
+# usage: python3 convert_encoding.py
+
 if __name__ == '__main__':
     print('code snippets from pages 1224-1225\n')
 

@@ -1,3 +1,5 @@
+# usage: python3 bytes_objects_method_calls.py
+
 if __name__ == '__main__':
     print('code snippets from pages 1230-1231\n')
 

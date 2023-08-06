@@ -1,3 +1,5 @@
+# usage: python3 text_and_binary_modes_in_3x.py
+
 if __name__ == '__main__':
     print('code snippets from pages 1237-1239\n')
 

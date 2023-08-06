@@ -1,3 +1,5 @@
+# usage: python3 text_file_basics.py
+
 if __name__ == '__main__':
     print('code snippets from page 1237\n')
 

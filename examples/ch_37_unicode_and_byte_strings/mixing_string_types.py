@@ -1,3 +1,5 @@
+# usage: python3 mixing_string_types.py
+
 if __name__ == '__main__':
     print('code snippets from pages 1232-1233\n')
 

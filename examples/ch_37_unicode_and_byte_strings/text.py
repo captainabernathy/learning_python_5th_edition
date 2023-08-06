@@ -1,4 +1,7 @@
 # -*- coding: latin-1 -*-
+
+# usage: python3 text.py
+
 # any of the following string literal forms work in latin-1...
 # changing the encoding above to either ascii or utf-8 fails bc the 0xC4
 # and 0xE8 in my_str1 are not valid in either

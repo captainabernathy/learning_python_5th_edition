@@ -1,3 +1,5 @@
+# usage: python3 dropping_the_bom_in_python.py
+
 import sys
 
 if __name__ == '__main__':

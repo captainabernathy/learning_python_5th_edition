@@ -1,3 +1,5 @@
+# usage: python3 string_type_conversions_3x.py
+
 import locale
 import sys
 

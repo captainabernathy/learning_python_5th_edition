@@ -1,3 +1,5 @@
+# usage: python3 coding_ascii_text.py
+
 if __name__ == '__main__':
     print('code snippets from page 1219\n')
 

@@ -1,3 +1,5 @@
+# usage: python3 bytes_objects_sequence_operations.py
+
 if __name__ == '__main__':
     print('code snippets from page 1231\n')
 

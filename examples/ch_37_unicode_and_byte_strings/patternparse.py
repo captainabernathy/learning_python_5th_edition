@@ -1,5 +1,6 @@
-import re
+# usage: python3 patternparse.py
 
+import re
 
 if __name__ == '__main__':
     print('code snippets from page 1253\n')

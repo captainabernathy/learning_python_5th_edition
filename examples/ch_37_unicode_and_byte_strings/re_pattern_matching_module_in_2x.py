@@ -1,6 +1,6 @@
-# NOTE: run with python2
-import re
+# usage: python2 re_pattern_matching_module_in_2x.py
 
+import re
 
 if __name__ == '__main__':
     print 'code snippets from page 1248\n'

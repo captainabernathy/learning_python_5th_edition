@@ -1,4 +1,4 @@
-# NOTE: run with python2
+# usage: python2 coding_unicode_strings_in_python_2x.py
 
 if __name__ == '__main__':
     print 'code snippets from pages 1225-1227\n'

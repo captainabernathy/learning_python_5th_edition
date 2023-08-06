@@ -1,3 +1,5 @@
+# usage: python3 reading_and_writing_unicode_in_3x.py
+
 if __name__ == '__main__':
     print('code snippets from pages 1240-1242\n')
 

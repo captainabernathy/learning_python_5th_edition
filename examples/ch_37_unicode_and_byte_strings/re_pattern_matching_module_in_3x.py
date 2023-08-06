@@ -1,5 +1,6 @@
-import re
+# usage: python3 re_pattern_matching_module_in_3x.py
 
+import re
 
 if __name__ == '__main__':
     print('code snippets from pages 1247-1248\n')

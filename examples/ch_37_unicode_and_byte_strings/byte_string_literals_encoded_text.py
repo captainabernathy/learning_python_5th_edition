@@ -1,3 +1,5 @@
+# usage: python3 byte_string_literals_encoded_text.py
+
 if __name__ == '__main__':
     print('code snippets from pages 1123-1124\n')
 

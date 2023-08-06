@@ -1,6 +1,6 @@
-# NOTE: run with python2
-import codecs
+# usage: python2 unicode_files_in_2x.py
 
+import codecs
 
 if __name__ == '__main__':
     print 'code snippets from page 1245\n'

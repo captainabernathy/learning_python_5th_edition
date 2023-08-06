@@ -1,4 +1,4 @@
-# NOTE: run with python2
+# usage: python2 string_type_conversions_2x.py
 
 if __name__ == '__main__':
     print 'code snippets from page 1218\n'

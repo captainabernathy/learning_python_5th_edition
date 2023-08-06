@@ -1,6 +1,7 @@
+# usage: python3 unicode_filenames_and_streams.py
+
 import sys
 import glob
-
 
 if __name__ == '__main__':
     print('code snippets from page 1246\n')

@@ -1,4 +1,4 @@
-# NOTE: run with python2
+# usage: python2 python_2x_string_literals.py
 
 if __name__ == '__main__':
     print 'code snippets from page 1217\n'

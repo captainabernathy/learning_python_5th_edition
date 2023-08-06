@@ -1,3 +1,5 @@
+# usage: python3 saxparse.py
+
 import xml.sax
 import xml.sax.handler
 

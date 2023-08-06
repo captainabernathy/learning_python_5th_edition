@@ -1,3 +1,5 @@
+# usage: python3 domparse.py
+
 from xml.dom.minidom import parse
 from xml.dom.minidom import Node
 
